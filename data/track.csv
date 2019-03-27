@@ -1,1212 +1,1212 @@
-ProductionID,Name,Genre,Length_Secs,Year,Type,EditableID
-107,Breaking The Rules,Rock,263,1981,TRACK,167
-108,C.O.D.,Rock,199,1981,TRACK,168
-109,Evil Walks,Rock,263,1981,TRACK,169
-110,For Those About To Rock (We Salute You),Rock,343,1981,TRACK,170
-111,Inject The Venom,Rock,210,1981,TRACK,171
-112,Let's Get It Up,Rock,233,1981,TRACK,172
-113,Night Of The Long Knives,Rock,205,1981,TRACK,173
-114,Put The Finger On You,Rock,205,1981,TRACK,174
-115,Snowballed,Rock,203,1981,TRACK,175
-116,Spellbound,Rock,270,1981,TRACK,176
-117,Bad Boy Boogie,Rock,267,1977,TRACK,177
-118,Dog Eat Dog,Rock,215,1977,TRACK,178
-119,Go Down,Rock,331,1977,TRACK,179
-120,Hell Ain't A Bad Place To Be,Rock,254,1977,TRACK,180
-121,Let There Be Rock,Rock,366,1977,TRACK,181
-122,Overdose,Rock,369,1977,TRACK,182
-123,Problem Child,Rock,325,1977,TRACK,183
-124,Whole Lotta Rosie,Rock,323,1977,TRACK,184
-125,Balls to the Wall,Rock,342,1984,TRACK,185
-126,Fast As a Shark,Rock,230,1982,TRACK,186
-127,Princess of the Dawn,Rock,375,1982,TRACK,187
-128,Restless and Wild,Rock,252,1982,TRACK,188
-129,Amazing,Rock,356,1994,TRACK,189
-130,Angel,Rock,307,1994,TRACK,190
-131,Blind Man,Rock,240,1994,TRACK,191
-132,Crazy,Rock,316,1994,TRACK,192
-133,Cryin',Rock,309,1994,TRACK,193
-134,Deuces Are Wild,Rock,215,1994,TRACK,194
-135,Dude (Looks Like A Lady),Rock,264,1994,TRACK,195
-136,Eat The Rich,Rock,251,1994,TRACK,196
-137,Janie's Got A Gun,Rock,330,1994,TRACK,197
-138,Livin' On The Edge,Rock,381,1994,TRACK,198
-139,Love In An Elevator,Rock,321,1994,TRACK,199
-140,Rag Doll,Rock,264,1994,TRACK,200
-141,The Other Side,Rock,244,1994,TRACK,201
-142,Walk On Water,Rock,295,1994,TRACK,202
-143,What It Takes,Rock,310,1994,TRACK,203
-144,All I Really Want,Rock,284,1995,TRACK,204
-145,Forgiven,Rock,300,1995,TRACK,205
-146,Hand In My Pocket,Rock,221,1995,TRACK,206
-147,Head Over Feet,Rock,267,1995,TRACK,207
-148,Ironic,Rock,229,1995,TRACK,208
-149,Mary Jane,Rock,280,1995,TRACK,209
-150,Not The Doctor,Rock,227,1995,TRACK,210
-151,Perfect,Rock,188,1995,TRACK,211
-152,Right Through You,Rock,176,1995,TRACK,212
-153,Wake Up,Rock,293,1995,TRACK,213
-154,You Learn,Rock,239,1995,TRACK,214
-155,You Oughta Know,Rock,249,1995,TRACK,215
-156,You Oughta Know (Alternate),Rock,491,1995,TRACK,216
-157,Bleed The Freak,Rock,241,2011,TRACK,217
-158,Confusion,Rock,344,2011,TRACK,218
-159,I Can't Remember,Rock,222,2011,TRACK,219
-160,I Know Somethin (Bout You),Rock,261,2011,TRACK,220
-161,It Ain't Like That,Rock,277,2011,TRACK,221
-162,Man In The Box,Rock,286,2011,TRACK,222
-163,Put You Down,Rock,196,2011,TRACK,223
-164,Real Thing,Rock,243,2011,TRACK,224
-165,Sea Of Sorrow,Rock,349,2011,TRACK,225
-166,Sunshine,Rock,284,2011,TRACK,226
-167,We Die Young,Rock,152,2011,TRACK,227
-168,Back to Black,R&B/Soul,240,2006,TRACK,228
-169,He Can Only Hold Her,R&B/Soul,166,2006,TRACK,229
-170,Just Friends,R&B/Soul,191,2006,TRACK,230
-171,Love Is a Losing Game,R&B/Soul,154,2006,TRACK,231
-172,Me & Mr. Jones,R&B/Soul,151,2006,TRACK,232
-173,Rehab,R&B/Soul,213,2006,TRACK,233
-174,Rehab (Hot Chip Remix),R&B/Soul,418,2006,TRACK,234
-175,Some Unholy War,R&B/Soul,141,2006,TRACK,235
-176,Tears Dry On Their Own,R&B/Soul,185,2006,TRACK,236
-177,Wake Up Alone,R&B/Soul,221,2006,TRACK,237
-178,You Know I'm No Good,R&B/Soul,256,2006,TRACK,238
-179,You Know I'm No Good (feat. Ghostface Killah),R&B/Soul,202,2006,TRACK,239
-180,Angela,Jazz,169,1968,TRACK,240
-181,Corcovado (Quiet Nights Of Quiet Stars),Jazz,205,1968,TRACK,241
-182,Desafinado,Jazz,185,1968,TRACK,242
-183,Dindi (Dindi),Jazz,253,1968,TRACK,243
-184,Falando De Amor,Jazz,219,1968,TRACK,244
-185,Fotografia,Jazz,129,1968,TRACK,245
-186,Garota De Ipanema,Jazz,285,1968,TRACK,246
-187,Ligia,Jazz,251,1968,TRACK,247
-188,O Boto (Bôto),Jazz,366,1968,TRACK,248
-189,Outra Vez,Jazz,126,1968,TRACK,249
-190,Por Causa De Você,Jazz,169,1968,TRACK,250
-191,Samba De Uma Nota Só (One Note Samba),Jazz,137,1968,TRACK,251
-192,Se Todos Fossem Iguais A Você (Instrumental),Jazz,134,1968,TRACK,252
-193,Creeping Death,Metal,308,1995,TRACK,253
-194,Enter Sandman,Metal,221,1995,TRACK,254
-195,Harvester Of Sorrow,Metal,374,1995,TRACK,255
-196,Master Of Puppets,Metal,436,1995,TRACK,256
-197,Sad But True,Metal,288,1995,TRACK,257
-198,The Unforgiven,Metal,322,1995,TRACK,258
-199,Welcome Home (Sanitarium),Metal,350,1995,TRACK,259
-200,Wherever I May Roam,Metal,369,1995,TRACK,260
-201,Bring'em Back Alive,Rock,329,2007,TRACK,261
-202,Cochise,Rock,222,2007,TRACK,262
-203,Exploder,Rock,206,2007,TRACK,263
-204,Gasoline,Rock,279,2007,TRACK,264
-205,Getaway Car,Rock,299,2007,TRACK,265
-206,Hypnotize,Rock,206,2007,TRACK,266
-207,I am the Highway,Rock,334,2007,TRACK,267
-208,Light My Way,Rock,303,2007,TRACK,268
-209,Like a Stone,Rock,294,2007,TRACK,269
-210,Set It Off,Rock,263,2007,TRACK,270
-211,Shadow on the Sun,Rock,343,2007,TRACK,271
-212,Show Me How to Live,Rock,277,2007,TRACK,272
-213,The Last Remaining Light,Rock,317,2007,TRACK,273
-214,What You Are,Rock,249,2007,TRACK,274
-215,#1 Zero,Alternative & Punk,299,2005,TRACK,275
-216,Be Yourself,Alternative & Punk,279,2005,TRACK,276
-217,Dandelion,Alternative & Punk,278,2005,TRACK,277
-218,Doesn't Remind Me,Alternative & Punk,255,2005,TRACK,278
-219,Drown Me Slowly,Alternative & Punk,233,2005,TRACK,279
-220,Heaven's Dead,Alternative & Punk,276,2005,TRACK,280
-221,Man Or Animal,Alternative & Punk,233,2005,TRACK,281
-222,Out Of Exile,Alternative & Punk,291,2005,TRACK,282
-223,The Curse,Alternative & Punk,309,2005,TRACK,283
-224,The Worm,Alternative & Punk,237,2005,TRACK,284
-225,Yesterday To Tomorrow,Alternative & Punk,273,2005,TRACK,285
-226,Your Time Has Come,Alternative & Punk,255,2005,TRACK,286
-227,13 Years Of Grief,Metal,246,2000,TRACK,287
-228,A.N.D.R.O.T.A.Z.,Metal,266,2000,TRACK,288
-229,All For You,Metal,235,2000,TRACK,289
-230,Bored To Tears,Metal,247,2000,TRACK,290
-231,Born To Booze,Metal,282,2000,TRACK,291
-232,Intro/ Low Down,Metal,323,2000,TRACK,292
-233,Lost My Better Half,Metal,284,2000,TRACK,293
-234,No More Tears,Metal,555,2000,TRACK,294
-235,Phoney Smile Fake Hellos,Metal,273,2000,TRACK,295
-236,Stronger Than Death,Metal,300,2000,TRACK,296
-237,Super Terrorizer,Metal,319,2000,TRACK,297
-238,The Begining... At Last,Metal,365,2000,TRACK,298
-239,World Of Trouble,Metal,359,2000,TRACK,299
-240,Blood In The Wall,Metal,284,2000,TRACK,300
-241,Heart Of Gold,Metal,194,2000,TRACK,301
-242,Like A Bird,Metal,276,2000,TRACK,302
-243,Snowblind,Metal,420,2000,TRACK,303
-244,The Beginning...At Last,Metal,271,2000,TRACK,304
-245,Behind The Wall Of Sleep,Metal,217,1968,TRACK,305
-246,Black Sabbath,Metal,382,1968,TRACK,306
-247,Evil Woman,Metal,204,1968,TRACK,307
-248,N.I.B.,Metal,368,1968,TRACK,308
-249,Sleeping Village,Metal,644,1968,TRACK,309
-250,The Wizard,Metal,264,1968,TRACK,310
-251,Warning,Metal,212,1968,TRACK,311
-252,A Banda,Latin,132,2008,TRACK,312
-253,Apesar De Você,Latin,234,2008,TRACK,313
-254,Atras Da Porta,Latin,189,2008,TRACK,314
-255,Brejo Da Cruz,Latin,214,2008,TRACK,315
-256,Carolina,Latin,163,2008,TRACK,316
-257,Com Açúcar E Com Afeto,Latin,175,2008,TRACK,317
-258,Construção / Deus Lhe Pague,Latin,383,2008,TRACK,318
-259,Essa Moça Ta Diferente,Latin,167,2008,TRACK,319
-260,Fora Da Ordem,Latin,354,2008,TRACK,320
-261,Geni E O Zepelim,Latin,317,2008,TRACK,321
-262,Gota D'água,Latin,153,2008,TRACK,322
-263,Meia-Lua Inteira,Latin,222,2008,TRACK,323
-264,Menino Do Rio,Latin,147,2008,TRACK,324
-265,Meu Caro Amigo,Latin,260,2008,TRACK,325
-266,Minha Historia,Latin,182,2008,TRACK,326
-267,Morena De Angola,Latin,186,2008,TRACK,327
-268,O Estrangeiro,Latin,374,2008,TRACK,328
-269,O Leaozinho,Latin,184,2008,TRACK,329
-270,O Que Será (À Flor Da Terra),Latin,167,2008,TRACK,330
-271,Podres Poderes,Latin,259,2008,TRACK,331
-272,Qualquer Coisa,Latin,193,2008,TRACK,332
-273,Queixa,Latin,299,2008,TRACK,333
-274,Samba De Orly,Latin,162,2008,TRACK,334
-275,Sampa,Latin,185,2008,TRACK,335
-276,Tatuagem,Latin,172,2008,TRACK,336
-277,Terra,Latin,401,2008,TRACK,337
-278,Trocando Em Miúdos,Latin,169,2008,TRACK,338
-279,Um Indio,Latin,195,2008,TRACK,339
-280,Vai Passar,Latin,369,2008,TRACK,340
-281,Vai Trabalhar Vagabundo,Latin,139,2008,TRACK,341
-282,Voce Nao Entende Nada - Cotidiano,Latin,421,2008,TRACK,342
-283,Voce e Linda,Latin,242,2008,TRACK,343
-284,Amor De Muito,Latin,175,1994,TRACK,344
-285,Baião Ambiental [Instrumental],Latin,152,1994,TRACK,345
-286,Corpo De Lama,Latin,232,1994,TRACK,346
-287,Criança De Domingo,Latin,208,1994,TRACK,347
-288,Enquanto O Mundo Explode,Latin,88,1994,TRACK,348
-289,Etnia,Latin,152,1994,TRACK,349
-290,Interlude Zumbi,Latin,71,1994,TRACK,350
-291,Macô,Latin,249,1994,TRACK,351
-292,Manguetown,Latin,194,1994,TRACK,352
-293,Maracatu Atômico,Latin,284,1994,TRACK,353
-294,Maracatu Atômico [Atomic Version],Latin,273,1994,TRACK,354
-295,Maracatu Atômico [Ragga Mix],Latin,210,1994,TRACK,355
-296,Maracatu Atômico [Trip Hop],Latin,221,1994,TRACK,356
-297,Mateus Enter,Latin,33,1994,TRACK,357
-298,O Cidadão Do Mundo,Latin,200,1994,TRACK,358
-299,O Encontro De Isaac Asimov Com Santos Dumont No Céu,Latin,99,1994,TRACK,359
-300,Quilombo Groove [Instrumental],Latin,151,1994,TRACK,360
-301,Samba Do Lado,Latin,227,1994,TRACK,361
-302,Samidarish [Instrumental],Latin,272,1994,TRACK,362
-303,Sangue De Bairro,Latin,132,1994,TRACK,363
-304,Sobremesa,Latin,240,1994,TRACK,364
-305,Um Passeio No Mundo Livre,Latin,240,1994,TRACK,365
-306,Um Satélite Na Cabeça,Latin,126,1994,TRACK,366
-307,A Cor Do Sol,Reggae,273,1986,TRACK,367
-308,A Estrada,Reggae,282,1986,TRACK,368
-309,A Sombra Da Maldade,Reggae,285,1986,TRACK,369
-310,Doutor,Reggae,178,1986,TRACK,370
-311,Downtown,Reggae,239,1986,TRACK,371
-312,Eu Também Quero Beijar,Reggae,211,1986,TRACK,372
-313,Falar A Verdade,Reggae,244,1986,TRACK,373
-314,Firmamento,Reggae,225,1986,TRACK,374
-315,Na Frente Da TV,Reggae,289,1986,TRACK,375
-316,O Erê,Reggae,206,1986,TRACK,376
-317,Onde Você Mora?,Reggae,298,1986,TRACK,377
-318,Pensamento,Reggae,192,1986,TRACK,378
-319,Realidade Virtual,Reggae,240,1986,TRACK,379
-320,Sábado A Noite,Reggae,267,1986,TRACK,380
-321,Amor Demais,Latin,254,2014,TRACK,381
-322,Cada Um Cada Um (A Namoradeira),Latin,253,2014,TRACK,382
-323,Felicidade Urgente,Latin,266,2014,TRACK,383
-324,Flor Do Futuro,Latin,275,2014,TRACK,384
-325,Férias,Latin,264,2014,TRACK,385
-326,Gostava Tanto De Você,Latin,230,2014,TRACK,386
-327,Linha Do Equador,Latin,244,2014,TRACK,387
-328,Livre Pra Viver,Latin,214,2014,TRACK,388
-329,Noite Do Prazer,Latin,311,2014,TRACK,389
-330,À Francesa,Latin,244,2014,TRACK,390
-331,Bloodsucker,Rock,256,1969,TRACK,391
-332,Child In Time,Rock,620,1969,TRACK,392
-333,Flight Of The Rat,Rock,478,1969,TRACK,393
-334,Hard Lovin' Man,Rock,431,1969,TRACK,394
-335,Into The Fire,Rock,210,1969,TRACK,395
-336,Living Wreck,Rock,274,1969,TRACK,396
-337,Speed King,Rock,264,1969,TRACK,397
-338,Burn,Rock,453,1975,TRACK,398
-339,Gypsy,Rock,339,1975,TRACK,399
-340,Lady Double Dealer,Rock,233,1975,TRACK,400
-341,Mistreated,Rock,758,1975,TRACK,401
-342,Smoke On The Water,Rock,618,1975,TRACK,402
-343,Stormbringer,Rock,277,1975,TRACK,403
-344,You Fool No One,Rock,804,1975,TRACK,404
-345,A Castle Full Of Rascals,Rock,311,1995,TRACK,405
-346,A Touch Away,Rock,276,1995,TRACK,406
-347,Cascades : I'm Not Your Lover,Rock,283,1995,TRACK,407
-348,Hey Cisco,Rock,354,1995,TRACK,408
-349,Loosen My Strings,Rock,359,1995,TRACK,409
-350,Rosa's Cantina,Rock,312,1995,TRACK,410
-351,Somebody Stole My Guitar,Rock,249,1995,TRACK,411
-352,Sometimes I Feel Like Screaming,Rock,451,1995,TRACK,412
-353,Soon Forgotten,Rock,287,1995,TRACK,413
-354,The Aviator,Rock,320,1995,TRACK,414
-355,The Purpendicular Waltz,Rock,283,1995,TRACK,415
-356,Vavoom : Ted The Mechanic,Rock,257,1995,TRACK,416
-357,Breakfast In Bed,Rock,317,1990,TRACK,417
-358,Fire In The Basement,Rock,283,1990,TRACK,418
-359,Fortuneteller,Rock,349,1990,TRACK,419
-360,King Of Dreams,Rock,328,1990,TRACK,420
-361,Love Conquers All,Rock,227,1990,TRACK,421
-362,The Cut Runs Deep,Rock,342,1990,TRACK,422
-363,Too Much Is Not Enough,Rock,257,1990,TRACK,423
-364,Truth Hurts,Rock,314,1990,TRACK,424
-365,Wicked Ways,Rock,393,1990,TRACK,425
-366,High Ball Shooter,Rock,267,1961,TRACK,426
-367,Hold On,Rock,306,1961,TRACK,427
-368,Holy Man,Rock,270,1961,TRACK,428
-369,Lady Double Dealer,Rock,201,1961,TRACK,429
-370,Love Don't Mean a Thing,Rock,263,1961,TRACK,430
-371,Soldier Of Fortune,Rock,193,1961,TRACK,431
-372,Stormbringer,Rock,246,1961,TRACK,432
-373,The Gypsy,Rock,242,1961,TRACK,433
-374,You Can't Do it Right (With the One You Love),Rock,203,1961,TRACK,434
-375,A Twist In The Tail,Rock,257,1992,TRACK,435
-376,Anya,Rock,392,1992,TRACK,436
-377,Lick It Up,Rock,240,1992,TRACK,437
-378,Nasty Piece Of Work,Rock,276,1992,TRACK,438
-379,One Man's Meat,Rock,278,1992,TRACK,439
-380,Ramshackle Man,Rock,334,1992,TRACK,440
-381,Solitaire,Rock,282,1992,TRACK,441
-382,Talk About Love,Rock,247,1992,TRACK,442
-383,The Battle Rages On,Rock,356,1992,TRACK,443
-384,Time To Kill,Rock,351,1992,TRACK,444
-385,Going Down / Highway Star,Rock,913,2006,TRACK,445
-386,Mistreated (Alternate Version),Rock,854,2006,TRACK,446
-387,Space Truckin',Rock,1196,2006,TRACK,447
-388,You Fool No One (Alternate Version),Rock,763,2006,TRACK,448
-389,Action,Rock,220,1995,TRACK,449
-390,Animal,Rock,244,1995,TRACK,450
-391,Armageddon It,Rock,322,1995,TRACK,451
-392,Bringin' On The Heartbreak,Rock,272,1995,TRACK,452
-393,Have You Ever Needed Someone So Bad,Rock,319,1995,TRACK,453
-394,Heaven Is,Rock,214,1995,TRACK,454
-395,Hysteria,Rock,355,1995,TRACK,455
-396,Let's Get Rocked,Rock,296,1995,TRACK,456
-397,Love Bites,Rock,346,1995,TRACK,457
-398,Make Love Like A Man,Rock,255,1995,TRACK,458
-399,Photograph,Rock,248,1995,TRACK,459
-400,Pour Some Sugar On Me,Rock,292,1995,TRACK,460
-401,Rock Of Ages,Rock,248,1995,TRACK,461
-402,Rocket,Rock,247,1995,TRACK,462
-403,Two Steps Behind [Acoustic Version],Rock,259,1995,TRACK,463
-404,When Love & Hate Collide,Rock,257,1995,TRACK,464
-405,A Rua,Latin,238,1980,TRACK,465
-406,Agora Que O Dia Acordou,Latin,323,1980,TRACK,466
-407,Baixo Rio,Latin,198,1980,TRACK,467
-408,Do You Have Other Loves?,Latin,295,1980,TRACK,468
-409,Entre E Ouça,Latin,286,1980,TRACK,469
-410,Já!!!,Latin,217,1980,TRACK,470
-411,Manuel,Latin,230,1980,TRACK,471
-412,Seis Da Tarde,Latin,238,1980,TRACK,472
-413,Solução,Latin,247,1980,TRACK,473
-414,Sombras Do Meu Destino,Latin,280,1980,TRACK,474
-415,Um Contrato Com Deus,Latin,202,1980,TRACK,475
-416,Um Jantar Pra Dois,Latin,244,1980,TRACK,476
-417,Um Love,Latin,181,1980,TRACK,477
-418,Vamos Dançar,Latin,226,1980,TRACK,478
-419,After Midnight,Blues,191,1987,TRACK,479
-420,Badge,Blues,163,1987,TRACK,480
-421,Bell Bottom Blues,Blues,304,1987,TRACK,481
-422,Cocaine,Blues,215,1987,TRACK,482
-423,Crossroads,Blues,253,1987,TRACK,483
-424,I Can't Stand It,Blues,249,1987,TRACK,484
-425,I Feel Free,Blues,174,1987,TRACK,485
-426,I Shot The Sheriff,Blues,263,1987,TRACK,486
-427,Knockin On Heavens Door,Blues,264,1987,TRACK,487
-428,Lay Down Sally,Blues,231,1987,TRACK,488
-429,Layla,Blues,430,1987,TRACK,489
-430,Let It Grow,Blues,297,1987,TRACK,490
-431,Promises,Blues,180,1987,TRACK,491
-432,Strange Brew,Blues,167,1987,TRACK,492
-433,Sunshine Of Your Love,Blues,252,1987,TRACK,493
-434,Swing Low Sweet Chariot,Blues,208,1987,TRACK,494
-435,White Room,Blues,301,1987,TRACK,495
-436,Wonderful Tonight,Blues,221,1987,TRACK,496
-437,Best Of You,Rock,255,2005,TRACK,497
-438,DOA,Rock,252,2005,TRACK,498
-439,End Over End,Rock,352,2005,TRACK,499
-440,Free Me,Rock,278,2005,TRACK,500
-441,Hell,Rock,117,2005,TRACK,501
-442,In Your Honor,Rock,230,2005,TRACK,502
-443,No Way Back,Rock,196,2005,TRACK,503
-444,Resolve,Rock,288,2005,TRACK,504
-445,The Deepest Blues Are Black,Rock,238,2005,TRACK,505
-446,The Last Song,Rock,199,2005,TRACK,506
-447,Another Round,Rock,265,2005,TRACK,507
-448,Cold Day In The Sun,Rock,200,2005,TRACK,508
-449,Friend Of A Friend,Rock,193,2005,TRACK,509
-450,Miracle,Rock,209,2005,TRACK,510
-451,On The Mend,Rock,271,2005,TRACK,511
-452,Over And Out,Rock,316,2005,TRACK,512
-453,Razor,Rock,293,2005,TRACK,513
-454,Still,Rock,313,2005,TRACK,514
-455,Virginia Moon,Rock,229,2005,TRACK,515
-456,What If I Do?,Rock,302,2005,TRACK,516
-457,Doll,Rock,83,1996,TRACK,517
-458,Enough Space,Rock,157,1996,TRACK,518
-459,Everlong,Rock,250,1996,TRACK,519
-460,February Stars,Rock,289,1996,TRACK,520
-461,Monkey Wrench,Rock,231,1996,TRACK,521
-462,My Hero,Rock,260,1996,TRACK,522
-463,My Poor Brain,Rock,213,1996,TRACK,523
-464,New Way Home,Rock,342,1996,TRACK,524
-465,See You,Rock,146,1996,TRACK,525
-466,Up In Arms,Rock,135,1996,TRACK,526
-467,Walking After You,Rock,303,1996,TRACK,527
-468,Wind Up,Rock,152,1996,TRACK,528
-469,200 Years Old,Rock,272,1975,TRACK,529
-470,Advance Romance,Rock,677,1975,TRACK,530
-471,Carolina Hard-Core Ecstasy,Rock,359,1975,TRACK,531
-472,Cucamonga,Rock,144,1975,TRACK,532
-473,Debra Kadabra,Rock,234,1975,TRACK,533
-474,Man With The Woman Head,Rock,88,1975,TRACK,534
-475,Muffin Man,Rock,332,1975,TRACK,535
-476,Poofter's Froth Wyoming Plans Ahead,Rock,183,1975,TRACK,536
-477,Sam With The Showing Scalp Flat Top,Rock,171,1975,TRACK,537
-478,A Volta Da Asa Branca,Soundtrack,271,2000,TRACK,538
-479,As Pegadas Do Amor,Soundtrack,209,2000,TRACK,539
-480,Asa Branca,Soundtrack,217,2000,TRACK,540
-481,Assum Preto,Soundtrack,199,2000,TRACK,541
-482,Baião Da Penha,Soundtrack,247,2000,TRACK,542
-483,Casinha Feliz,Soundtrack,32,2000,TRACK,543
-484,Esperando Na Janela,Soundtrack,261,2000,TRACK,544
-485,Juazeiro,Soundtrack,222,2000,TRACK,545
-486,Lamento Sertanejo,Soundtrack,260,2000,TRACK,546
-487,O Amor Daqui De Casa,Soundtrack,148,2000,TRACK,547
-488,Pau-De-Arara,Soundtrack,191,2000,TRACK,548
-489,Qui Nem Jiló,Soundtrack,204,2000,TRACK,549
-490,Óia Eu Aqui De Novo,Soundtrack,219,2000,TRACK,550
-491,Último Pau-De-Arara,Soundtrack,200,2000,TRACK,551
-492,A Novidade (Live),Latin,316,1998,TRACK,552
-493,Copacabana (Live),Latin,289,1998,TRACK,553
-494,Cérebro Eletrônico (Live),Latin,231,1998,TRACK,554
-495,De Ouro E Marfim (Live),Latin,234,1998,TRACK,555
-496,Estrela (Live),Latin,285,1998,TRACK,556
-497,Ghandi (Live),Latin,222,1998,TRACK,557
-498,Introdução (Live),Latin,154,1998,TRACK,558
-499,Is This Love (Live),Latin,295,1998,TRACK,559
-500,Opachorô (Live),Latin,259,1998,TRACK,560
-501,Palco (Live),Latin,238,1998,TRACK,561
-502,Pela Internet (Live),Latin,263,1998,TRACK,562
-503,Quanta (Live),Latin,357,1998,TRACK,563
-504,Refavela (Live),Latin,236,1998,TRACK,564
-505,Stir It Up (Live),Latin,282,1998,TRACK,565
-506,Vendedor De Caranguejo (Live),Latin,248,1998,TRACK,566
-507,American Idiot,Alternative & Punk,174,2004,TRACK,567
-508,Are We The Waiting,Alternative & Punk,163,2004,TRACK,568
-509,Boulevard Of Broken Dreams,Alternative & Punk,260,2004,TRACK,569
-510,Extraordinary Girl,Alternative & Punk,214,2004,TRACK,570
-511,Give Me Novacaine,Alternative & Punk,205,2004,TRACK,571
-512,Holiday,Alternative & Punk,232,2004,TRACK,572
-513,Homecoming / The Death Of St. Jimmy / East 12th St. / Nobody Likes You / Rock And Roll Girlfriend / We're Coming Home Again,Alternative & Punk,558,2004,TRACK,573
-514,Jesus Of Suburbia / City Of The Damned / I Don't Care / Dearly Beloved / Tales Of Another Broken Home,Alternative & Punk,548,2004,TRACK,574
-515,Letterbomb,Alternative & Punk,246,2004,TRACK,575
-516,She's A Rebel,Alternative & Punk,120,2004,TRACK,576
-517,St. Jimmy,Alternative & Punk,175,2004,TRACK,577
-518,Wake Me Up When September Ends,Alternative & Punk,285,2004,TRACK,578
-519,Whatsername,Alternative & Punk,252,2004,TRACK,579
-520,Basket Case,Alternative & Punk,181,2001,TRACK,580
-521,Brain Stew,Alternative & Punk,193,2001,TRACK,581
-522,Geek Stink Breath,Alternative & Punk,135,2001,TRACK,582
-523,Good Riddance (Time Of Your Life),Alternative & Punk,153,2001,TRACK,583
-524,Hitchin' A Ride,Alternative & Punk,171,2001,TRACK,584
-525,J.A.R. (Jason Andrew Relva),Alternative & Punk,170,2001,TRACK,585
-526,Jaded,Alternative & Punk,90,2001,TRACK,586
-527,Longview,Alternative & Punk,234,2001,TRACK,587
-528,Macy's Day Parade,Alternative & Punk,213,2001,TRACK,588
-529,Maria,Alternative & Punk,167,2001,TRACK,589
-530,Minority,Alternative & Punk,168,2001,TRACK,590
-531,Nice Guys Finish Last,Alternative & Punk,170,2001,TRACK,591
-532,Poprocks And Coke,Alternative & Punk,158,2001,TRACK,592
-533,Redundant,Alternative & Punk,198,2001,TRACK,593
-534,She,Alternative & Punk,134,2001,TRACK,594
-535,Stuck With Me,Alternative & Punk,135,2001,TRACK,595
-536,Waiting,Alternative & Punk,192,2001,TRACK,596
-537,Walking Contradiction,Alternative & Punk,151,2001,TRACK,597
-538,Warning,Alternative & Punk,221,2001,TRACK,598
-539,Welcome To Paradise,Alternative & Punk,224,2001,TRACK,599
-540,When I Come Around,Alternative & Punk,178,2001,TRACK,600
-541,All My Love,Hip Hop/Rap,200,2011,TRACK,601
-542,Come And Get Some Of This,Hip Hop/Rap,170,2011,TRACK,602
-543,Commercial 1,Hip Hop/Rap,7,2011,TRACK,603
-544,Commercial 2,Hip Hop/Rap,21,2011,TRACK,604
-545,Feel It,Hip Hop/Rap,239,2011,TRACK,605
-546,Guess Who's Back,Hip Hop/Rap,238,2011,TRACK,606
-547,House And The Rising Sun,Hip Hop/Rap,219,2011,TRACK,607
-548,House Of Pain Anthem,Hip Hop/Rap,155,2011,TRACK,608
-549,Jump Around,Hip Hop/Rap,217,2011,TRACK,609
-550,Jump Around (Pete Rock Remix),Hip Hop/Rap,236,2011,TRACK,610
-551,Life Goes On,Hip Hop/Rap,163,2011,TRACK,611
-552,One For The Road,Hip Hop/Rap,170,2011,TRACK,612
-553,Put On Your Shit Kickers,Hip Hop/Rap,190,2011,TRACK,613
-554,Put Your Head Out,Hip Hop/Rap,182,2011,TRACK,614
-555,Salutations,Hip Hop/Rap,69,2011,TRACK,615
-556,Shamrocks And Shenanigans,Hip Hop/Rap,218,2011,TRACK,616
-557,Shamrocks And Shenanigans (Boom Shalock Lock Boom/Butch Vig Mix),Hip Hop/Rap,237,2011,TRACK,617
-558,Top O' The Morning To Ya,Hip Hop/Rap,216,2011,TRACK,618
-559,Colibri,Jazz,361,1955,TRACK,619
-560,Dark Side Of The Cog,Jazz,377,1955,TRACK,620
-561,Deep Waters,Jazz,396,1955,TRACK,621
-562,Gypsy,Jazz,330,1955,TRACK,622
-563,Jacob's Ladder,Jazz,367,1955,TRACK,623
-564,Journey Into Sunlight,Jazz,249,1955,TRACK,624
-565,L'Arc En Ciel De Miles,Jazz,242,1955,TRACK,625
-566,Love Is The Colour,Jazz,251,1955,TRACK,626
-567,Magnetic Ocean,Jazz,321,1955,TRACK,627
-568,Millenium,Jazz,379,1955,TRACK,628
-569,She Wears Black,Jazz,528,1955,TRACK,629
-570,Sunchild,Jazz,259,1955,TRACK,630
-571,Thinking 'Bout Tomorrow,Jazz,355,1955,TRACK,631
-572,2 Minutes To Midnight,Metal,366,1985,TRACK,632
-573,Acacia Avenue,Heavy Metal,379,1985,TRACK,633
-574,Aces High,Heavy Metal,276,1985,TRACK,634
-575,Children Of The Damned,Heavy Metal,278,1985,TRACK,635
-576,Die With Your Boots On,Heavy Metal,314,1985,TRACK,636
-577,Flight Of Icarus,Metal,229,1985,TRACK,637
-578,Hallowed Be Thy Name,Metal,451,1985,TRACK,638
-579,Intro- Churchill S Speech,Heavy Metal,48,1985,TRACK,639
-580,Iron Maiden,Metal,261,1985,TRACK,640
-581,Phantom Of The Opera,Heavy Metal,441,1985,TRACK,641
-582,Powerslave,Metal,454,1985,TRACK,642
-583,Revelations,Metal,371,1985,TRACK,643
-584,Rime Of The Ancient Mariner,Metal,789,1985,TRACK,644
-585,Run To The Hills,Metal,231,1985,TRACK,645
-586,Running Free,Metal,204,1985,TRACK,646
-587,The Number Of The Beast,Metal,275,1985,TRACK,647
-588,The Trooper,Metal,268,1985,TRACK,648
-589,Wrathchild,Heavy Metal,183,1985,TRACK,649
-590,Afraid To Shoot Strangers,Rock,412,1992,TRACK,650
-591,Be Quick Or Be Dead,Rock,233,1992,TRACK,651
-592,Can I Play With Madness,Rock,213,1992,TRACK,652
-593,Fear Of The Dark,Rock,431,1992,TRACK,653
-594,From Here To Eternity,Rock,284,1992,TRACK,654
-595,Tailgunner,Rock,247,1992,TRACK,655
-596,The Evil That Men Do,Rock,478,1992,TRACK,656
-597,The Number Of The Beast,Rock,294,1992,TRACK,657
-598,Wasting Love,Rock,336,1992,TRACK,658
-599,Wrathchild,Rock,174,1992,TRACK,659
-600,Die With Your Boots On,Metal,325,1983,TRACK,660
-601,Flight Of The Icarus,Metal,230,1983,TRACK,661
-602,Quest For Fire,Metal,221,1983,TRACK,662
-603,Revelations,Metal,408,1983,TRACK,663
-604,Still Life,Metal,294,1983,TRACK,664
-605,Sun And Steel,Metal,206,1983,TRACK,665
-606,The Trooper,Metal,251,1983,TRACK,666
-607,To Tame A Land,Metal,445,1983,TRACK,667
-608,Where Eagles Dare,Metal,369,1983,TRACK,668
-609,2 Minutes To Midnight,Metal,359,1984,TRACK,669
-610,Aces High,Metal,269,1984,TRACK,670
-611,Back in the Village,Metal,320,1984,TRACK,671
-612,Duelists,Metal,366,1984,TRACK,672
-613,Flash of The Blade,Metal,242,1984,TRACK,673
-614,Losfer Words,Metal,252,1984,TRACK,674
-615,Powerslave,Metal,407,1984,TRACK,675
-616,Rime of the Ancient Mariner,Metal,816,1984,TRACK,676
-617,2 Minutes To Midnight,Metal,386,1983,TRACK,677
-618,Blood Brothers,Metal,435,1983,TRACK,678
-619,Brave New World,Metal,366,1983,TRACK,679
-620,Ghost Of The Navigator,Metal,408,1983,TRACK,680
-621,Intro,Metal,115,1983,TRACK,681
-622,Sign Of The Cross,Metal,649,1983,TRACK,682
-623,The Mercenary,Metal,282,1983,TRACK,683
-624,The Trooper,Metal,273,1983,TRACK,684
-625,The Wicker Man,Metal,281,1983,TRACK,685
-626,Wrathchild,Metal,185,1983,TRACK,686
-627,Dream Of Mirrors,Rock,578,1983,TRACK,687
-628,Fear Of The Dark,Rock,460,1983,TRACK,688
-629,Hallowed Be Thy Name,Rock,443,1983,TRACK,689
-630,Iron Maiden,Rock,351,1983,TRACK,690
-631,Run To The Hills,Rock,292,1983,TRACK,691
-632,Sanctuary,Rock,317,1983,TRACK,692
-633,The Clansman,Rock,559,1983,TRACK,693
-634,The Evil That Men Do,Metal,280,1983,TRACK,694
-635,The Number Of The Beast,Rock,300,1983,TRACK,695
-636,Can I Play With Madness,Metal,211,1988,TRACK,696
-637,Infinite Dreams,Metal,369,1988,TRACK,697
-638,Moonchild,Metal,340,1988,TRACK,698
-639,Only the Good Die Young,Metal,280,1988,TRACK,699
-640,Seventh Son of a Seventh Son,Metal,593,1988,TRACK,700
-641,The Clairvoyant,Metal,267,1988,TRACK,701
-642,The Evil That Men Do,Metal,273,1988,TRACK,702
-643,The Prophecy,Metal,305,1988,TRACK,703
-644,2 A.M.,Rock,337,2005,TRACK,704
-645,Blood On The World's Hands,Rock,357,2005,TRACK,705
-646,Fortunes Of War,Rock,443,2005,TRACK,706
-647,Judgement Of Heaven,Rock,312,2005,TRACK,707
-648,Look For The Truth,Rock,310,2005,TRACK,708
-649,Lord Of The Flies,Rock,303,2005,TRACK,709
-650,Man On The Edge,Rock,253,2005,TRACK,710
-651,Sign Of The Cross,Rock,678,2005,TRACK,711
-652,The Aftermath,Rock,380,2005,TRACK,712
-653,The Edge Of Darkness,Rock,399,2005,TRACK,713
-654,The Unbeliever,Rock,490,2005,TRACK,714
-655,Are You Gonna Be My Girl,Alternative & Punk,213,2003,TRACK,715
-656,Cold Hard Bitch,Alternative & Punk,243,2003,TRACK,716
-657,Come Around Again,Alternative & Punk,270,2003,TRACK,717
-658,Get Me Outta Here,Alternative & Punk,176,2003,TRACK,718
-659,Get What You Need,Alternative & Punk,247,2003,TRACK,719
-660,Last Chance,Alternative & Punk,112,2003,TRACK,720
-661,Lazy Gun,Alternative & Punk,282,2003,TRACK,721
-662,Look What You've Done,Alternative & Punk,230,2003,TRACK,722
-663,Move On,Alternative & Punk,260,2003,TRACK,723
-664,Radio Song,Alternative & Punk,272,2003,TRACK,724
-665,Rollover D.J.,Alternative & Punk,196,2003,TRACK,725
-666,Take It Or Leave It,Alternative & Punk,142,2003,TRACK,726
-667,Timothy,Alternative & Punk,270,2003,TRACK,727
-668,Blow Your Mind,Rock,512,1993,TRACK,728
-669,Didgin' Out,Rock,157,1993,TRACK,729
-670,Emergency On Planet Earth,Rock,245,1993,TRACK,730
-671,Hooked Up,Rock,275,1993,TRACK,731
-672,Music Of The Wind,Rock,383,1993,TRACK,732
-673,Revolution 1993,Rock,616,1993,TRACK,733
-674,Too Young To Die,Rock,365,1993,TRACK,734
-675,When You Gonna Learn (Digeridoo),Rock,230,1993,TRACK,735
-676,Black Capricorn Day,R&B/Soul,341,1999,TRACK,736
-677,Butterfly,R&B/Soul,268,1999,TRACK,737
-678,Canned Heat,R&B/Soul,331,1999,TRACK,738
-679,Deeper Underground,R&B/Soul,281,1999,TRACK,739
-680,Destitute Illusions,R&B/Soul,340,1999,TRACK,740
-681,Failling,R&B/Soul,225,1999,TRACK,741
-682,King For A Day,R&B/Soul,221,1999,TRACK,742
-683,Planet Home,R&B/Soul,284,1999,TRACK,743
-684,Soul Education,R&B/Soul,255,1999,TRACK,744
-685,Supersonic,R&B/Soul,315,1999,TRACK,745
-686,Were Do We Go From Here,R&B/Soul,313,1999,TRACK,746
-687,Half The Man,Electronica/Dance,289,1994,TRACK,747
-688,Journey To Arnhemland,Electronica/Dance,322,1994,TRACK,748
-689,Just Another Story,Electronica/Dance,529,1994,TRACK,749
-690,Light Years,Electronica/Dance,354,1994,TRACK,750
-691,Manifest Destiny,Electronica/Dance,382,1994,TRACK,751
-692,Morning Glory,Electronica/Dance,384,1994,TRACK,752
-693,Mr. Moon,Electronica/Dance,329,1994,TRACK,753
-694,Scam,Electronica/Dance,422,1994,TRACK,754
-695,Space Cowboy,Electronica/Dance,385,1994,TRACK,755
-696,Stillness In Time,Electronica/Dance,257,1994,TRACK,756
-697,The Kids,Electronica/Dance,309,1994,TRACK,757
-698,51st Anniversary,Rock,196,1966,TRACK,758
-699,Are You Experienced?,Rock,254,1966,TRACK,759
-700,Can You See Me,Rock,153,1966,TRACK,760
-701,Fire,Rock,164,1966,TRACK,761
-702,Foxy Lady,Rock,199,1966,TRACK,762
-703,Hey Joe,Rock,210,1966,TRACK,763
-704,Highway Chile,Rock,212,1966,TRACK,764
-705,I Don't Live Today,Rock,235,1966,TRACK,765
-706,Love Or Confusion,Rock,193,1966,TRACK,766
-707,Manic Depression,Rock,222,1966,TRACK,767
-708,May This Be Love,Rock,191,1966,TRACK,768
-709,Purple Haze,Rock,171,1966,TRACK,769
-710,Red House,Rock,224,1966,TRACK,770
-711,Remember,Rock,168,1966,TRACK,771
-712,Stone Free,Rock,216,1966,TRACK,772
-713,The Wind Cries Mary,Rock,200,1966,TRACK,773
-714,Third Stone From The Sun,Rock,404,1966,TRACK,774
-715,Breaking The Law (Live),Metal,144,1980,TRACK,775
-716,Diamonds And Rust (Live),Metal,219,1980,TRACK,776
-717,Electric Eye,Metal,222,1980,TRACK,777
-718,Freewheel Burning,Metal,265,1980,TRACK,778
-719,Heading Out To The Highway (Live),Metal,276,1980,TRACK,779
-720,Hot Rockin',Metal,197,1980,TRACK,780
-721,Living After Midnight,Metal,213,1980,TRACK,781
-722,Metal Meltdown,Metal,290,1980,TRACK,782
-723,Ram It Down,Metal,292,1980,TRACK,783
-724,Some Heads Are Gonna Roll,Metal,249,1980,TRACK,784
-725,The Green Manalishi,Metal,205,1980,TRACK,785
-726,The Hellion,Metal,41,1980,TRACK,786
-727,Turbo Lover,Metal,335,1980,TRACK,787
-728,Tyrant (Live),Metal,282,1980,TRACK,788
-729,Victim Of Change (Live),Metal,430,1980,TRACK,789
-730,You've Got Another Thing Comin',Metal,305,1980,TRACK,790
-731,Beth,Rock,166,1997,TRACK,791
-732,Black Diamond,Rock,314,1997,TRACK,792
-733,Calling Dr. Love,Rock,225,1997,TRACK,793
-734,Cold Gin,Rock,262,1997,TRACK,794
-735,Detroit Rock City,Rock,218,1997,TRACK,795
-736,Deuce,Rock,185,1997,TRACK,796
-737,Do You Love Me,Rock,214,1997,TRACK,797
-738,God Gave Rock 'n' Roll To You,Rock,320,1997,TRACK,798
-739,God Of Thunder,Rock,255,1997,TRACK,799
-740,Goin' Blind,Rock,216,1997,TRACK,800
-741,Hard Luck Woman,Rock,216,1997,TRACK,801
-742,I Was Made For Loving You,Rock,271,1997,TRACK,802
-743,Love Gun,Rock,196,1997,TRACK,803
-744,Plaster Caster,Rock,207,1997,TRACK,804
-745,Rock And Roll All Nite,Rock,173,1997,TRACK,805
-746,She,Rock,248,1997,TRACK,806
-747,Shock Me,Rock,227,1997,TRACK,807
-748,Shout It Out Loud,Rock,219,1997,TRACK,808
-749,Strutter,Rock,192,1997,TRACK,809
-750,Sure Know Something,Rock,242,1997,TRACK,810
-751,A World Without Heroes,Rock,177,1994,TRACK,811
-752,Beth,Rock,170,1994,TRACK,812
-753,Comin' Home,Rock,172,1994,TRACK,813
-754,Do You Love Me,Rock,193,1994,TRACK,814
-755,Domino,Rock,226,1994,TRACK,815
-756,Every Time I Look At You,Rock,283,1994,TRACK,816
-757,Goin' Blind,Rock,217,1994,TRACK,817
-758,I Still Love You,Rock,369,1994,TRACK,818
-759,Nothin' To Lose,Rock,222,1994,TRACK,819
-760,Plaster Caster,Rock,198,1994,TRACK,820
-761,Rock And Roll All Nite,Rock,259,1994,TRACK,821
-762,Rock Bottom,Rock,200,1994,TRACK,822
-763,See You Tonight,Rock,146,1994,TRACK,823
-764,Sure Know Something,Rock,254,1994,TRACK,824
-765,Communication Breakdown,Rock,192,1969,TRACK,825
-766,Communication Breakdown(2),Rock,161,1969,TRACK,826
-767,Communication Breakdown(3),Rock,185,1969,TRACK,827
-768,Dazed and Confused,Rock,401,1969,TRACK,828
-769,How Many More Times,Rock,711,1969,TRACK,829
-770,I Can't Quit You Baby,Rock,263,1969,TRACK,830
-771,I Can't Quit You Baby(2),Rock,380,1969,TRACK,831
-772,Somethin' Else,Rock,127,1969,TRACK,832
-773,The Girl I Love She Got Long Black Wavy Hair,Rock,183,1969,TRACK,833
-774,Travelling Riverside Blues,Rock,312,1969,TRACK,834
-775,What is and Should Never Be,Rock,260,1969,TRACK,835
-776,Whole Lotta Love,Rock,373,1969,TRACK,836
-777,You Shook Me,Rock,315,1969,TRACK,837
-778,You Shook Me(2),Rock,619,1969,TRACK,838
-779,Black Dog,Rock,317,1969,TRACK,839
-780,Dazed And Confused,Rock,1116,1969,TRACK,840
-781,Going To California,Rock,234,1969,TRACK,841
-782,Heartbreaker,Rock,316,1969,TRACK,842
-783,Immigrant Song,Rock,201,1969,TRACK,843
-784,Since I've Been Loving You,Rock,416,1969,TRACK,844
-785,Stairway To Heaven,Rock,529,1969,TRACK,845
-786,Thank You,Rock,398,1969,TRACK,846
-787,That's The Way,Rock,343,1969,TRACK,847
-788,Whole Lotta Love (Medley),Rock,825,1969,TRACK,848
-789,D'Yer Mak'er,Rock,262,1973,TRACK,849
-790,Dancing Days,Rock,223,1973,TRACK,850
-791,No Quarter,Rock,420,1973,TRACK,851
-792,Over The Hills And Far Away,Rock,290,1973,TRACK,852
-793,The Crunge,Rock,197,1973,TRACK,853
-794,The Ocean,Rock,271,1973,TRACK,854
-795,The Rain Song,Rock,459,1973,TRACK,855
-796,The Song Remains The Same,Rock,330,1973,TRACK,856
-797,All My Love,Rock,356,1978,TRACK,857
-798,Carouselambra,Rock,634,1978,TRACK,858
-799,Fool In The Rain,Rock,372,1978,TRACK,859
-800,Hot Dog,Rock,197,1978,TRACK,860
-801,I'm Gonna Crawl,Rock,329,1978,TRACK,861
-802,In The Evening,Rock,410,1978,TRACK,862
-803,South Bound Saurez,Rock,254,1978,TRACK,863
-804,Babe I'm Gonna Leave You,Rock,401,1969,TRACK,864
-805,Black Mountain Side,Rock,132,1969,TRACK,865
-806,Communication Breakdown,Rock,150,1969,TRACK,866
-807,Dazed and Confused,Rock,386,1969,TRACK,867
-808,Good Times Bad Times,Rock,166,1969,TRACK,868
-809,How Many More Times,Rock,508,1969,TRACK,869
-810,I Can't Quit You Baby,Rock,282,1969,TRACK,870
-811,You Shook Me,Rock,388,1969,TRACK,871
-812,Your Time Is Gonna Come,Rock,274,1969,TRACK,872
-813,Bring It On Home,Rock,259,1969,TRACK,873
-814,Heartbreaker,Rock,253,1969,TRACK,874
-815,Living Loving Maid (She's Just A Woman),Rock,159,1969,TRACK,875
-816,Moby Dick,Rock,260,1969,TRACK,876
-817,Ramble On,Rock,275,1969,TRACK,877
-818,Thank You,Rock,287,1969,TRACK,878
-819,The Lemon Song,Rock,379,1969,TRACK,879
-820,What Is And What Should Never Be,Rock,287,1969,TRACK,880
-821,Whole Lotta Love,Rock,334,1969,TRACK,881
-822,Bron-Y-Aur Stomp,Rock,259,1970,TRACK,882
-823,Celebration Day,Rock,209,1970,TRACK,883
-824,Friends,Rock,233,1970,TRACK,884
-825,Gallows Pole,Rock,296,1970,TRACK,885
-826,Hats Off To (Roy) Harper,Rock,219,1970,TRACK,886
-827,Immigrant Song,Rock,144,1970,TRACK,887
-828,Out On The Tiles,Rock,246,1970,TRACK,888
-829,Since I've Been Loving You,Rock,444,1970,TRACK,889
-830,Tangerine,Rock,189,1970,TRACK,890
-831,That's The Way,Rock,337,1970,TRACK,891
-832,Custard Pie,Rock,253,1975,TRACK,892
-833,Houses Of The Holy,Rock,242,1975,TRACK,893
-834,In My Time Of Dying,Rock,666,1975,TRACK,894
-835,Kashmir,Rock,508,1975,TRACK,895
-836,The Rover,Rock,337,1975,TRACK,896
-837,Trampled Under Foot,Rock,336,1975,TRACK,897
-838,Black Country Woman,Rock,273,1975,TRACK,898
-839,Boogie With Stu,Rock,233,1975,TRACK,899
-840,Bron-Yr-Aur,Rock,126,1975,TRACK,900
-841,Down By The Seaside,Rock,316,1975,TRACK,901
-842,In The Light,Rock,526,1975,TRACK,902
-843,Night Flight,Rock,217,1975,TRACK,903
-844,Sick Again,Rock,283,1975,TRACK,904
-845,Ten Years Gone,Rock,393,1975,TRACK,905
-846,The Wanton Song,Rock,249,1975,TRACK,906
-847,Ainda É Cedo,Latin,236,1998,TRACK,907
-848,Antes Das Seis,Latin,189,1998,TRACK,908
-849,Dezesseis,Latin,321,1998,TRACK,909
-850,Eduardo E Mônica,Latin,271,1998,TRACK,910
-851,Faroeste Caboclo,Latin,543,1998,TRACK,911
-852,Geração Coca-Cola,Latin,141,1998,TRACK,912
-853,Giz,Latin,202,1998,TRACK,913
-854,Há Tempos,Latin,197,1998,TRACK,914
-855,Indios,Latin,258,1998,TRACK,915
-856,Meninos E Meninas,Latin,203,1998,TRACK,916
-857,Pais E Filhos,Latin,308,1998,TRACK,917
-858,Perfeição,Latin,276,1998,TRACK,918
-859,Que País É Este,Latin,177,1998,TRACK,919
-860,Será,Latin,148,1998,TRACK,920
-861,Tempo Perdido,Latin,302,1998,TRACK,921
-862,Vento No Litoral,Latin,366,1998,TRACK,922
-863,Bitter Suite: Brief Encounter / Lost Weekend / Blue Angel,Rock,356,1985,TRACK,923
-864,Blind Curve: Vocal Under A Bloodlight / Passing Strangers / Mylo / Perimeter Walk / Threshold,Rock,569,1985,TRACK,924
-865,Childhoods End?,Rock,272,1985,TRACK,925
-866,Heart Of Lothian: Wide Boy / Curtain Call,Rock,366,1985,TRACK,926
-867,Kayleigh,Rock,234,1985,TRACK,927
-868,Lavender,Rock,153,1985,TRACK,928
-869,Lords Of The Backstage,Rock,112,1985,TRACK,929
-870,Pseudo Silk Kimono,Rock,134,1985,TRACK,930
-871,Waterhole (Expresso Bongo),Rock,133,1985,TRACK,931
-872,White Feather,Rock,143,1985,TRACK,932
-873,Be Good Johnny,Rock,216,1981,TRACK,933
-874,Down Under,Rock,222,1981,TRACK,934
-875,Down by the Sea,Rock,408,1981,TRACK,935
-876,Dr. Heckyll & Mr. Jive,Rock,278,1981,TRACK,936
-877,Everything I Need,Rock,216,1981,TRACK,937
-878,It's a Mistake,Rock,273,1981,TRACK,938
-879,No Sign of Yesterday,Rock,362,1981,TRACK,939
-880,Overkill,Rock,225,1981,TRACK,940
-881,Shakes and Ladders,Rock,198,1981,TRACK,941
-882,Who Can It Be Now?,Rock,202,1981,TRACK,942
-883,Astronomy,Metal,397,1998,TRACK,943
-884,Die Die My Darling,Metal,149,1998,TRACK,944
-885,Free Speech For The Dumb,Metal,155,1998,TRACK,945
-886,It's Electric,Metal,213,1998,TRACK,946
-887,Loverman,Metal,472,1998,TRACK,947
-888,Mercyful Fate,Metal,671,1998,TRACK,948
-889,Sabbra Cadabra,Metal,380,1998,TRACK,949
-890,The More I See,Metal,287,1998,TRACK,950
-891,Tuesday's Gone,Metal,545,1998,TRACK,951
-892,Turn The Page,Metal,366,1998,TRACK,952
-893,Whiskey In The Jar,Metal,305,1998,TRACK,953
-894,Am I Evil?,Metal,470,1998,TRACK,954
-895,Blitzkrieg,Metal,216,1998,TRACK,955
-896,Breadfan,Metal,341,1998,TRACK,956
-897,Crash Course In Brain Surgery,Metal,190,1998,TRACK,957
-898,Damage Case,Metal,220,1998,TRACK,958
-899,Helpless,Metal,398,1998,TRACK,959
-900,Killing Time,Metal,183,1998,TRACK,960
-901,Last Caress/Green Hell,Metal,209,1998,TRACK,961
-902,Overkill,Metal,245,1998,TRACK,962
-903,So What,Metal,189,1998,TRACK,963
-904,Stone Cold Crazy,Metal,137,1998,TRACK,964
-905,Stone Dead Forever,Metal,292,1998,TRACK,965
-906,The Prince,Metal,265,1998,TRACK,966
-907,The Small Hours,Metal,403,1998,TRACK,967
-908,The Wait,Metal,295,1998,TRACK,968
-909,Too Late Too Late,Metal,192,1998,TRACK,969
-910,(Anesthesia) Pulling Teeth,Metal,254,1988,TRACK,970
-911,Hit The Lights,Metal,257,1988,TRACK,971
-912,Jump In The Fire,Metal,281,1988,TRACK,972
-913,Metal Militia,Metal,311,1988,TRACK,973
-914,Motorbreath,Metal,188,1988,TRACK,974
-915,No Remorse,Metal,386,1988,TRACK,975
-916,Phantom Lord,Metal,302,1988,TRACK,976
-917,Seek & Destroy,Metal,415,1988,TRACK,977
-918,The Four Horsemen,Metal,433,1988,TRACK,978
-919,Whiplash,Metal,249,1988,TRACK,979
-920,Battery,Metal,312,1986,TRACK,980
-921,Damage Inc.,Metal,330,1986,TRACK,981
-922,Disposable Heroes,Metal,496,1986,TRACK,982
-923,Leper Messiah,Metal,347,1986,TRACK,983
-924,Master Of Puppets,Metal,515,1986,TRACK,984
-925,Orion,Metal,500,1986,TRACK,985
-926,The Thing That Should Not Be,Metal,396,1986,TRACK,986
-927,Welcome Home (Sanitarium),Metal,387,1986,TRACK,987
-928,Creeping Death,Metal,396,2012,TRACK,988
-929,Escape,Metal,264,2012,TRACK,989
-930,Fade To Black,Metal,414,2012,TRACK,990
-931,Fight Fire With Fire,Metal,285,2012,TRACK,991
-932,For Whom The Bell Tolls,Metal,311,2012,TRACK,992
-933,Ride The Lightning,Metal,397,2012,TRACK,993
-934,The Call Of Ktulu,Metal,534,2012,TRACK,994
-935,Trapped Under Ice,Metal,244,2012,TRACK,995
-936,Blues For Pablo,Jazz,318,1957,TRACK,996
-937,Blues For Pablo (Alternate Take),Jazz,212,1957,TRACK,997
-938,I Don't Wanna Be Kissed (By Anyone But You),Jazz,191,1957,TRACK,998
-939,I Don't Wanna Be Kissed (By Anyone But You) (Alternate Take),Jazz,192,1957,TRACK,999
-940,Lament,Jazz,134,1957,TRACK,1000
-941,Miles Ahead,Jazz,209,1957,TRACK,1001
-942,My Ship,Jazz,268,1957,TRACK,1002
-943,New Rhumba,Jazz,276,1957,TRACK,1003
-944,Springsville,Jazz,207,1957,TRACK,1004
-945,Springsville (Alternate Take),Jazz,196,1957,TRACK,1005
-946,The Duke,Jazz,214,1957,TRACK,1006
-947,The Maids Of Cadiz,Jazz,233,1957,TRACK,1007
-948,The Meaning Of The Blues,Jazz,168,1957,TRACK,1008
-949,The Meaning Of The Blues/Lament (Alternate Take),Jazz,309,1957,TRACK,1009
-950,Afraid,Metal,248,1998,TRACK,1010
-951,Bitter Pill,Metal,266,1998,TRACK,1011
-952,Don't Go Away Mad (Just Go Away),Metal,279,1998,TRACK,1012
-953,Dr. Feelgood,Metal,282,1998,TRACK,1013
-954,Enslaved,Metal,269,1998,TRACK,1014
-955,Glitter,Metal,340,1998,TRACK,1015
-956,Home Sweet Home,Metal,236,1998,TRACK,1016
-957,Kickstart My Heart,Metal,283,1998,TRACK,1017
-958,Looks That Kill,Metal,240,1998,TRACK,1018
-959,Primal Scream,Metal,286,1998,TRACK,1019
-960,Same Ol' Situation,Metal,254,1998,TRACK,1020
-961,Shout At The Devil,Metal,221,1998,TRACK,1021
-962,Smokin' in The Boys Room,Metal,206,1998,TRACK,1022
-963,Too Fast For Love,Metal,200,1998,TRACK,1023
-964,Wild Side,Metal,276,1998,TRACK,1024
-965,Without You,Metal,268,1998,TRACK,1025
-966,Aneurysm,Rock,271,1996,TRACK,1026
-967,Been A Son,Rock,127,1996,TRACK,1027
-968,Blew,Rock,216,1996,TRACK,1028
-969,Breed,Rock,208,1996,TRACK,1029
-970,Drain You,Rock,215,1996,TRACK,1030
-971,Heart-Shaped Box,Rock,281,1996,TRACK,1031
-972,Intro,Rock,52,1996,TRACK,1032
-973,Lithium,Rock,250,1996,TRACK,1033
-974,Milk It,Rock,225,1996,TRACK,1034
-975,Negative Creep,Rock,163,1996,TRACK,1035
-976,Polly,Rock,149,1996,TRACK,1036
-977,Scentless Apprentice,Rock,211,1996,TRACK,1037
-978,School,Rock,160,1996,TRACK,1038
-979,Sliver,Rock,116,1996,TRACK,1039
-980,Smells Like Teen Spirit,Rock,287,1996,TRACK,1040
-981,Spank Thru,Rock,190,1996,TRACK,1041
-982,Tourette's,Rock,115,1996,TRACK,1042
-983,Breed,Rock,183,1991,TRACK,1043
-984,Come As You Are,Rock,219,1991,TRACK,1044
-985,Drain You,Rock,223,1991,TRACK,1045
-986,In Bloom,Rock,254,1991,TRACK,1046
-987,Lithium,Rock,256,1991,TRACK,1047
-988,Lounge Act,Rock,156,1991,TRACK,1048
-989,On A Plain,Rock,196,1991,TRACK,1049
-990,Polly,Rock,177,1991,TRACK,1050
-991,Smells Like Teen Spirit,Rock,301,1991,TRACK,1051
-992,Something In The Way,Rock,230,1991,TRACK,1052
-993,Stay Away,Rock,212,1991,TRACK,1053
-994,Territorial Pissings,Rock,143,1991,TRACK,1054
-995,Cartao Postal,Latin,211,1979,TRACK,1055
-996,Denúncia,Latin,159,1979,TRACK,1056
-997,Faraó Divindade Do Egito,Latin,228,1979,TRACK,1057
-998,Jeito Faceiro,Latin,217,1979,TRACK,1058
-999,Madagáscar Olodum,Latin,252,1979,TRACK,1059
-1000,Nossa Gente (Avisa Là),Latin,188,1979,TRACK,1060
-1001,Olodum - Alegria Geral,Latin,233,1979,TRACK,1061
-1002,Olodum - Smile (Instrumental),Latin,235,1979,TRACK,1062
-1003,Protesto Do Olodum (Ao Vivo),Latin,206,1979,TRACK,1063
-1004,Reggae Odoyá,Latin,224,1979,TRACK,1064
-1005,Requebra,Latin,240,1979,TRACK,1065
-1006,Revolta Olodum,Latin,230,1979,TRACK,1066
-1007,Todo Amor (Asas Da Liberdade),Latin,245,1979,TRACK,1067
-1008,A E O Z,Alternative & Punk,518,2008,TRACK,1068
-1009,Ando Meio Desligado,Alternative & Punk,287,2008,TRACK,1069
-1010,Baby,Alternative & Punk,177,2008,TRACK,1070
-1011,Balada Do Louco,Alternative & Punk,241,2008,TRACK,1071
-1012,Banho De Lua,Alternative & Punk,221,2008,TRACK,1072
-1013,Bat Macumba,Alternative & Punk,187,2008,TRACK,1073
-1014,Chão De Estrelas,Alternative & Punk,284,2008,TRACK,1074
-1015,Desculpe Babe,Alternative & Punk,170,2008,TRACK,1075
-1016,Meu Refrigerador Não Funciona,Alternative & Punk,382,2008,TRACK,1076
-1017,Panis Et Circenses,Alternative & Punk,125,2008,TRACK,1077
-1018,Rita Lee,Alternative & Punk,189,2008,TRACK,1078
-1019,Top Top,Alternative & Punk,146,2008,TRACK,1079
-1020,Vida De Cachorro,Alternative & Punk,195,2008,TRACK,1080
-1021,Alagados,Latin,302,1982,TRACK,1081
-1022,Caleidoscópio,Latin,211,1982,TRACK,1082
-1023,Cinema Mudo,Latin,227,1982,TRACK,1083
-1024,Lanterna Dos Afogados,Latin,190,1982,TRACK,1084
-1025,Me Liga,Latin,229,1982,TRACK,1085
-1026,Melô Do Marinheiro,Latin,208,1982,TRACK,1086
-1027,Meu Erro,Latin,208,1982,TRACK,1087
-1028,O Beco,Latin,189,1982,TRACK,1088
-1029,Perplexo,Latin,161,1982,TRACK,1089
-1030,Quase Um Segundo,Latin,275,1982,TRACK,1090
-1031,Romance Ideal,Latin,250,1982,TRACK,1091
-1032,SKA,Latin,148,1982,TRACK,1092
-1033,Selvagem,Latin,245,1982,TRACK,1093
-1034,Será Que Vai Chover?,Latin,337,1982,TRACK,1094
-1035,Vital E Sua Moto,Latin,210,1982,TRACK,1095
-1036,Óculos,Latin,219,1982,TRACK,1096
-1037,Bark at the Moon,Rock,257,1995,TRACK,1097
-1038,Crazy Train,Rock,295,1980,TRACK,1098
-1039,I Don't Know,Rock,312,1980,TRACK,1099
-1040,Blue Train,Rock,405,2007,TRACK,1100
-1041,Burning Up,Rock,321,2007,TRACK,1101
-1042,Heart In Your Hand,Rock,230,2007,TRACK,1102
-1043,House Of Love,Rock,335,2007,TRACK,1103
-1044,Most High,Rock,336,2007,TRACK,1104
-1045,Please Read The Letter,Rock,262,2007,TRACK,1105
-1046,Shining In The Light,Rock,240,2007,TRACK,1106
-1047,Sons Of Freedom,Rock,246,2007,TRACK,1107
-1048,Upon A Golden Horse,Rock,232,2007,TRACK,1108
-1049,Walking Into Clarksdale,Rock,318,2007,TRACK,1109
-1050,When I Was A Child,Rock,345,2007,TRACK,1110
-1051,When The World Was Young,Rock,373,2007,TRACK,1111
-1052,Better Man,Rock,246,1998,TRACK,1112
-1053,Black,Rock,415,1998,TRACK,1113
-1054,Corduroy,Rock,305,1998,TRACK,1114
-1055,Daughter,Rock,407,1998,TRACK,1115
-1056,Do The Evolution,Rock,225,1998,TRACK,1116
-1057,Elderly Woman Behind The Counter In A Small Town,Rock,229,1998,TRACK,1117
-1058,Even Flow,Rock,317,1998,TRACK,1118
-1059,F*Ckin' Up,Rock,377,1998,TRACK,1119
-1060,Given To Fly,Rock,233,1998,TRACK,1120
-1061,Go,Rock,161,1998,TRACK,1121
-1062,MFC,Rock,148,1998,TRACK,1122
-1063,Nothingman,Rock,278,1998,TRACK,1123
-1064,Off He Goes,Rock,343,1998,TRACK,1124
-1065,Red Mosquito,Rock,242,1998,TRACK,1125
-1066,Untitled,Rock,122,1998,TRACK,1126
-1067,Koyaanisqatsi,Soundtrack,206,2009,TRACK,1127
-1068,Can't Get There From Here,Alternative & Punk,220,1982,TRACK,1128
-1069,Carnival Of Sorts,Alternative & Punk,233,1982,TRACK,1129
-1070,Cuyahoga,Alternative & Punk,260,1982,TRACK,1130
-1071,Don't Go Back To Rockville,Alternative & Punk,272,1982,TRACK,1131
-1072,Driver 8,Alternative & Punk,204,1982,TRACK,1132
-1073,Fall On Me,Alternative & Punk,172,1982,TRACK,1133
-1074,Green Grow The Rushes,Alternative & Punk,225,1982,TRACK,1134
-1075,I Believe,Alternative & Punk,227,1982,TRACK,1135
-1076,It's The End Of The World As We Know It (And I Feel Fine),Alternative & Punk,244,1982,TRACK,1136
-1077,Perfect Circle,Alternative & Punk,208,1982,TRACK,1137
-1078,Pretty Persuasion,Alternative & Punk,229,1982,TRACK,1138
-1079,Radio Free Aurope,Alternative & Punk,245,1982,TRACK,1139
-1080,So Central Rain,Alternative & Punk,194,1982,TRACK,1140
-1081,Talk About The Passion,Alternative & Punk,203,1982,TRACK,1141
-1082,The Finest Worksong,Alternative & Punk,229,1982,TRACK,1142
-1083,The One I Love,Alternative & Punk,197,1982,TRACK,1143
-1084,Apache Rose Peacock,Alternative & Punk,282,1992,TRACK,1144
-1085,Blood Sugar Sex Magik,Alternative & Punk,271,1992,TRACK,1145
-1086,Breaking The Girl,Alternative & Punk,295,1992,TRACK,1146
-1087,Funky Monks,Alternative & Punk,323,1992,TRACK,1147
-1088,Give It Away,Alternative & Punk,283,1992,TRACK,1148
-1089,I Could Have Lied,Alternative & Punk,244,1992,TRACK,1149
-1090,If You Have To Ask,Alternative & Punk,216,1992,TRACK,1150
-1091,Mellowship Slinky In B Major,Alternative & Punk,240,1992,TRACK,1151
-1092,My Lovely Man,Alternative & Punk,279,1992,TRACK,1152
-1093,Naked In The Rain,Alternative & Punk,265,1992,TRACK,1153
-1094,Sir Psycho Sexy,Alternative & Punk,496,1992,TRACK,1154
-1095,Suck My Kiss,Alternative & Punk,217,1992,TRACK,1155
-1096,The Greeting Song,Alternative & Punk,193,1992,TRACK,1156
-1097,The Power Of Equality,Alternative & Punk,243,1992,TRACK,1157
-1098,The Righteous & The Wicked,Alternative & Punk,248,1992,TRACK,1158
-1099,They're Red Hot,Alternative & Punk,71,1992,TRACK,1159
-1100,Under The Bridge,Alternative & Punk,264,1992,TRACK,1160
-1101,By The Way,Rock,218,2002,TRACK,1161
-1102,Cabron,Rock,218,2002,TRACK,1162
-1103,Can't Stop,Rock,269,2002,TRACK,1163
-1104,Don't Forget Me,Rock,277,2002,TRACK,1164
-1105,Dosed,Rock,312,2002,TRACK,1165
-1106,I Could Die For You,Rock,193,2002,TRACK,1166
-1107,Midnight,Rock,295,2002,TRACK,1167
-1108,Minor Thing,Rock,217,2002,TRACK,1168
-1109,On Mercury,Rock,208,2002,TRACK,1169
-1110,Tear,Rock,317,2002,TRACK,1170
-1111,The Zephyr Song,Rock,232,2002,TRACK,1171
-1112,This Is The Place,Rock,257,2002,TRACK,1172
-1113,Throw Away Your Television,Rock,224,2002,TRACK,1173
-1114,Universally Speaking,Rock,259,2002,TRACK,1174
-1115,Venice Queen,Rock,369,2002,TRACK,1175
-1116,Warm Tape,Rock,256,2002,TRACK,1176
-1117,2112 Overture,Rock,272,1974,TRACK,1177
-1118,Anthem,Rock,264,1974,TRACK,1178
-1119,Bastille Day,Rock,280,1974,TRACK,1179
-1120,By-Tor And The Snow Dog,Rock,519,1974,TRACK,1180
-1121,Closer To The Heart,Rock,175,1974,TRACK,1181
-1122,Finding My Way,Rock,305,1974,TRACK,1182
-1123,Fly By Night,Rock,202,1974,TRACK,1183
-1124,Freewill,Rock,324,1974,TRACK,1184
-1125,La Villa Strangiato,Rock,577,1974,TRACK,1185
-1126,Something For Nothing,Rock,240,1974,TRACK,1186
-1127,The Spirit Of Radio,Rock,299,1974,TRACK,1187
-1128,The Temples Of Syrinx,Rock,133,1974,TRACK,1188
-1129,The Trees,Rock,285,1974,TRACK,1189
-1130,Xanadu,Rock,667,1974,TRACK,1190
-1131,As The Years Go by,Rock,233,1966,TRACK,1191
-1132,El Corazon Manda,Rock,713,1966,TRACK,1192
-1133,Fried Neckbones And Home Fries,Rock,638,1966,TRACK,1193
-1134,Jingo,Rock,592,1966,TRACK,1194
-1135,La Puesta Del Sol,Rock,628,1966,TRACK,1195
-1136,Persuasion,Rock,318,1966,TRACK,1196
-1137,Santana Jam,Rock,882,1966,TRACK,1197
-1138,Soul Sacrifice,Rock,296,1966,TRACK,1198
-1139,Evil Ways,Rock,475,1967,TRACK,1199
-1140,Funky Piano,Rock,934,1967,TRACK,1200
-1141,Just Ain't Good Enough,Rock,850,1967,TRACK,1201
-1142,Rock Me,Rock,94,1967,TRACK,1202
-1143,The Way You Do To Mer,Rock,618,1967,TRACK,1203
-1144,We've Got To Get Together/Jingo,Rock,1070,1967,TRACK,1204
-1145,1979,Alternative & Punk,263,2001,TRACK,1205
-1146,Ava Adore,Alternative & Punk,261,2001,TRACK,1206
-1147,Bullet With Butterfly Wings,Alternative & Punk,257,2001,TRACK,1207
-1148,Cherub Rock,Alternative & Punk,299,2001,TRACK,1208
-1149,Disarm,Alternative & Punk,198,2001,TRACK,1209
-1150,Drown,Alternative & Punk,270,2001,TRACK,1210
-1151,Eye,Alternative & Punk,294,2001,TRACK,1211
-1152,Landslide,Alternative & Punk,190,2001,TRACK,1212
-1153,Perfect,Alternative & Punk,203,2001,TRACK,1213
-1154,Real Love,Alternative & Punk,250,2001,TRACK,1214
-1155,Rhinocerous,Alternative & Punk,353,2001,TRACK,1215
-1156,Siva,Alternative & Punk,261,2001,TRACK,1216
-1157,Stand Inside Your Love,Alternative & Punk,253,2001,TRACK,1217
-1158,The Everlasting Gaze,Alternative & Punk,242,2001,TRACK,1218
-1159,Today,Alternative & Punk,202,2001,TRACK,1219
-1160,Zero,Alternative & Punk,161,2001,TRACK,1220
-1161,[Untitled],Alternative & Punk,231,2001,TRACK,1221
-1162,As We Sleep,Jazz,316,1996,TRACK,1222
-1163,Believe,Jazz,310,1996,TRACK,1223
-1164,Best Thing,Jazz,274,1996,TRACK,1224
-1165,De La Luz,Jazz,315,1996,TRACK,1225
-1166,Heart of the Night,Jazz,273,1996,TRACK,1226
-1167,J Squared,Jazz,288,1996,TRACK,1227
-1168,Midnight,Jazz,266,1996,TRACK,1228
-1169,Playtime,Jazz,273,1996,TRACK,1229
-1170,Surrender,Jazz,287,1996,TRACK,1230
-1171,Valentino's,Jazz,296,1996,TRACK,1231
-1172,Westwood Moon,Jazz,295,1996,TRACK,1232
-1173,When Evening Falls,Jazz,298,1996,TRACK,1233
-1174,End Of Romanticism,Jazz,320,1979,TRACK,1234
-1175,Heliopolis,Jazz,338,1979,TRACK,1235
-1176,It Doesn't Matter,Jazz,270,1979,TRACK,1236
-1177,Jubilee,Jazz,275,1979,TRACK,1237
-1178,Little Linda,Jazz,264,1979,TRACK,1238
-1179,Morning Dance,Jazz,238,1979,TRACK,1239
-1180,Rasul,Jazz,238,1979,TRACK,1240
-1181,Song For Lorraine,Jazz,240,1979,TRACK,1241
-1182,Starburst,Jazz,291,1979,TRACK,1242
-1183,All Night Thing,Alternative,231,1991,TRACK,1243
-1184,Call Me a Dog,Alternative,304,1991,TRACK,1244
-1185,Four Walled World,Alternative,414,1991,TRACK,1245
-1186,Hunger Strike,Alternative,246,1991,TRACK,1246
-1187,Pushin Forward Back,Alternative,225,1991,TRACK,1247
-1188,Reach Down,Alternative,672,1991,TRACK,1248
-1189,Say Hello 2 Heaven,Alternative,384,1991,TRACK,1249
-1190,Times of Trouble,Alternative,342,1991,TRACK,1250
-1191,Wooden Jesus,Alternative,250,1991,TRACK,1251
-1192,Your Savior,Alternative,244,1991,TRACK,1252
-1193,Adios nonino,Classical,289,1972,TRACK,1253
-1194,Cosmic Fiend,Blues,308,1987,TRACK,1254
-1195,Cursed Diamonds,Blues,368,1987,TRACK,1255
-1196,Girl From A Pawnshop,Blues,404,1987,TRACK,1256
-1197,Greasy Grass River,Blues,218,1987,TRACK,1257
-1198,Midnight From The Inside Out,Blues,286,1987,TRACK,1258
-1199,Miracle To Me,Blues,372,1987,TRACK,1259
-1200,Sometimes Salvation,Blues,389,1987,TRACK,1260
-1201,Sting Me,Blues,268,1987,TRACK,1261
-1202,Thick & Thin,Blues,222,1987,TRACK,1262
-1203,Wiser Time,Blues,459,1987,TRACK,1263
-1204,Black Moon Creeping,Blues,359,2001,TRACK,1264
-1205,Hard To Handle,Blues,206,2001,TRACK,1265
-1206,High Head Blues,Blues,371,2001,TRACK,1266
-1207,Lickin',Blues,314,2001,TRACK,1267
-1208,Remedy,Blues,337,2001,TRACK,1268
-1209,She Talks To Angels,Blues,361,2001,TRACK,1269
-1210,Soul Singing,Blues,233,2001,TRACK,1270
-1211,Title Song,Blues,505,2001,TRACK,1271
-1212,Twice As Hard,Blues,275,2001,TRACK,1272
-1213,Alabama Song,Rock,200,1965,TRACK,1273
-1214,Back Door Man,Rock,214,1965,TRACK,1274
-1215,Break on Through,Rock,149,1965,TRACK,1275
-1216,End Of The Night,Rock,172,1965,TRACK,1276
-1217,I Looked At You,Rock,142,1965,TRACK,1277
-1218,Light My Fire,Rock,428,1965,TRACK,1278
-1219,Soul Kitchen,Rock,215,1965,TRACK,1279
-1220,Take It As It Comes,Rock,137,1965,TRACK,1280
-1221,The Crystal Ship,Rock,154,1965,TRACK,1281
-1222,The End,Rock,701,1965,TRACK,1282
-1223,Twentienth Century Fox,Rock,153,1965,TRACK,1283
-1224,Corinna,Rock,257,1998,TRACK,1284
-1225,Flip The Switch,Rock,252,1998,TRACK,1285
-1226,Gimmie Shelters,Rock,382,1998,TRACK,1286
-1227,Intro,Rock,49,1998,TRACK,1287
-1228,Live With Me,Rock,234,1998,TRACK,1288
-1229,Memory Motel,Rock,365,1998,TRACK,1289
-1230,Out Of Control,Rock,479,1998,TRACK,1290
-1231,Respectable,Rock,215,1998,TRACK,1291
-1232,Saint Of Me,Rock,325,1998,TRACK,1292
-1233,Sister Morphine,Rock,376,1998,TRACK,1293
-1234,The Last Time,Rock,287,1998,TRACK,1294
-1235,Thief In The Night,Rock,337,1998,TRACK,1295
-1236,Wainting On A Friend,Rock,302,1998,TRACK,1296
-1237,You Got Me Rocking,Rock,205,1998,TRACK,1297
-1238,Acrobat,Rock,270,1991,TRACK,1298
-1239,Even Better Than The Real Thing,Rock,221,1991,TRACK,1299
-1240,Love Is Blindness,Rock,263,1991,TRACK,1300
-1241,Mysterious Ways,Rock,243,1991,TRACK,1301
-1242,One,Rock,276,1991,TRACK,1302
-1243,So Cruel,Rock,349,1991,TRACK,1303
-1244,The Fly,Rock,268,1991,TRACK,1304
-1245,Tryin' To Throw Your Arms Around The World,Rock,232,1991,TRACK,1305
-1246,Ultraviolet (Light My Way),Rock,330,1991,TRACK,1306
-1247,Until The End Of The World,Rock,278,1991,TRACK,1307
-1248,Who's Gonna Ride Your Wild Horses,Rock,316,1991,TRACK,1308
-1249,Zoo Station,Rock,276,1991,TRACK,1309
-1250,Beautiful Day,Rock,248,2000,TRACK,1310
-1251,Elevation,Rock,227,2000,TRACK,1311
-1252,Grace,Rock,330,2000,TRACK,1312
-1253,In A Little While,Rock,219,2000,TRACK,1313
-1254,Kite,Rock,266,2000,TRACK,1314
-1255,New York,Rock,330,2000,TRACK,1315
-1256,Peace On Earth,Rock,288,2000,TRACK,1316
-1257,Stuck In A Moment You Can't Get Out Of,Rock,272,2000,TRACK,1317
-1258,Walk On,Rock,296,2000,TRACK,1318
-1259,When I Look At The World,Rock,257,2000,TRACK,1319
-1260,Wild Honey,Rock,226,2000,TRACK,1320
-1261,A Man And A Woman,Rock,270,2004,TRACK,1321
-1262,All Because Of You,Rock,219,2004,TRACK,1322
-1263,City Of Blinding Lights,Rock,347,2004,TRACK,1323
-1264,Crumbs From Your Table,Rock,303,2004,TRACK,1324
-1265,Love And Peace Or Else,Rock,290,2004,TRACK,1325
-1266,Miracle Drug,Rock,239,2004,TRACK,1326
-1267,One Step Closer,Rock,231,2004,TRACK,1327
-1268,Original Of The Species,Rock,281,2004,TRACK,1328
-1269,Sometimes You Can't Make It On Your Own,Rock,308,2004,TRACK,1329
-1270,Vertigo,Rock,194,2004,TRACK,1330
-1271,Yahweh,Rock,262,2004,TRACK,1331
-1272,Babyface,Rock,241,1993,TRACK,1332
-1273,Daddy's Gonna Pay For Your Crashed Car,Rock,320,1993,TRACK,1333
-1274,Dirty Day,Rock,324,1993,TRACK,1334
-1275,Lemon,Rock,418,1993,TRACK,1335
-1276,Numb,Rock,260,1993,TRACK,1336
-1277,Some Days Are Better Than Others,Rock,257,1993,TRACK,1337
-1278,The First Time,Rock,225,1993,TRACK,1338
-1279,The Wanderer,Rock,283,1993,TRACK,1339
-1280,Zooropa,Rock,392,1993,TRACK,1340
-1281,(I Can't Help) Falling In Love With You,Reggae,207,1978,TRACK,1341
-1282,Breakfast In Bed,Reggae,196,1978,TRACK,1342
-1283,Bring Me Your Cup,Reggae,341,1978,TRACK,1343
-1284,C'est La Vie,Reggae,270,1978,TRACK,1344
-1285,Here I Am (Come And Take Me),Reggae,242,1978,TRACK,1345
-1286,Higher Ground,Reggae,260,1978,TRACK,1346
-1287,Homely Girl,Reggae,203,1978,TRACK,1347
-1288,I Would Do For You,Reggae,334,1978,TRACK,1348
-1289,Kingston Town,Reggae,226,1978,TRACK,1349
-1290,Reggae Music,Reggae,245,1978,TRACK,1350
-1291,Superstition,Reggae,319,1978,TRACK,1351
-1292,Until My Dying Day,Reggae,235,1978,TRACK,1352
-1293,Wear You To The Ball,Reggae,213,1978,TRACK,1353
-1294,Where Did I Go Wrong,Reggae,226,1978,TRACK,1354
-1295,Ain't Talkin' 'Bout Love,Rock,230,1974,TRACK,1355
-1296,Atomic Punk,Rock,182,1974,TRACK,1356
-1297,Eruption,Rock,102,1974,TRACK,1357
-1298,Feel Your Love Tonight,Rock,222,1974,TRACK,1358
-1299,I'm The One,Rock,226,1974,TRACK,1359
-1300,Ice Cream Man,Rock,200,1974,TRACK,1360
-1301,Jamie's Cryin',Rock,210,1974,TRACK,1361
-1302,Little Dreamer,Rock,203,1974,TRACK,1362
-1303,On Fire,Rock,180,1974,TRACK,1363
-1304,Runnin' With The Devil,Rock,216,1974,TRACK,1364
-1305,You Really Got Me,Rock,158,1974,TRACK,1365
-1306,Ballot or the Bullet,Rock,342,1998,TRACK,1366
-1307,Dirty Water Dog,Rock,327,1998,TRACK,1367
-1308,Fire in the Hole,Rock,331,1998,TRACK,1368
-1309,From Afar,Rock,324,1998,TRACK,1369
-1310,How Many Say I,Rock,363,1998,TRACK,1370
-1311,Josephina,Rock,342,1998,TRACK,1371
-1312,Neworld,Rock,105,1998,TRACK,1372
-1313,Once,Rock,462,1998,TRACK,1373
-1314,One I Want,Rock,330,1998,TRACK,1374
-1315,Primary,Rock,86,1998,TRACK,1375
-1316,Without You,Rock,390,1998,TRACK,1376
-1317,Year to the Day,Rock,514,1998,TRACK,1377
+TrackID,AlbumID,ArtistID
+107,1,1
+108,1,1
+109,1,1
+110,1,1
+111,1,1
+112,1,1
+113,1,1
+114,1,1
+115,1,1
+116,1,1
+117,2,1
+118,2,1
+119,2,1
+120,2,1
+121,2,1
+122,2,1
+123,2,1
+124,2,1
+125,3,2
+126,4,2
+127,4,2
+128,4,2
+129,5,3
+130,5,3
+131,5,3
+132,5,3
+133,5,3
+134,5,3
+135,5,3
+136,5,3
+137,5,3
+138,5,3
+139,5,3
+140,5,3
+141,5,3
+142,5,3
+143,5,3
+144,6,4
+145,6,4
+146,6,4
+147,6,4
+148,6,4
+149,6,4
+150,6,4
+151,6,4
+152,6,4
+153,6,4
+154,6,4
+155,6,4
+156,6,4
+157,7,5
+158,7,5
+159,7,5
+160,7,5
+161,7,5
+162,7,5
+163,7,5
+164,7,5
+165,7,5
+166,7,5
+167,7,5
+168,8,6
+169,8,6
+170,8,6
+171,8,6
+172,8,6
+173,8,6
+174,8,6
+175,8,6
+176,8,6
+177,8,6
+178,8,6
+179,8,6
+180,9,7
+181,9,7
+182,9,7
+183,9,7
+184,9,7
+185,9,7
+186,9,7
+187,9,7
+188,9,7
+189,9,7
+190,9,7
+191,9,7
+192,9,7
+193,10,8
+194,10,8
+195,10,8
+196,10,8
+197,10,8
+198,10,8
+199,10,8
+200,10,8
+201,11,9
+202,11,9
+203,11,9
+204,11,9
+205,11,9
+206,11,9
+207,11,9
+208,11,9
+209,11,9
+210,11,9
+211,11,9
+212,11,9
+213,11,9
+214,11,9
+215,12,9
+216,12,9
+217,12,9
+218,12,9
+219,12,9
+220,12,9
+221,12,9
+222,12,9
+223,12,9
+224,12,9
+225,12,9
+226,12,9
+227,13,10
+228,13,10
+229,13,10
+230,13,10
+231,13,10
+232,13,10
+233,13,10
+234,13,10
+235,13,10
+236,13,10
+237,13,10
+238,13,10
+239,13,10
+240,14,10
+241,14,10
+242,14,10
+243,14,10
+244,14,10
+245,15,11
+246,15,11
+247,15,11
+248,15,11
+249,15,11
+250,15,11
+251,15,11
+252,16,12
+253,16,12
+254,16,12
+255,16,12
+256,16,12
+257,16,12
+258,16,12
+259,16,12
+260,16,12
+261,16,12
+262,16,12
+263,16,12
+264,16,12
+265,16,12
+266,16,12
+267,16,12
+268,16,12
+269,16,12
+270,16,12
+271,16,12
+272,16,12
+273,16,12
+274,16,12
+275,16,12
+276,16,12
+277,16,12
+278,16,12
+279,16,12
+280,16,12
+281,16,12
+282,16,12
+283,16,12
+284,17,13
+285,17,13
+286,17,13
+287,17,13
+288,17,13
+289,17,13
+290,17,13
+291,17,13
+292,17,13
+293,17,13
+294,17,13
+295,17,13
+296,17,13
+297,17,13
+298,17,13
+299,17,13
+300,17,13
+301,17,13
+302,17,13
+303,17,13
+304,17,13
+305,17,13
+306,17,13
+307,18,14
+308,18,14
+309,18,14
+310,18,14
+311,18,14
+312,18,14
+313,18,14
+314,18,14
+315,18,14
+316,18,14
+317,18,14
+318,18,14
+319,18,14
+320,18,14
+321,19,15
+322,19,15
+323,19,15
+324,19,15
+325,19,15
+326,19,15
+327,19,15
+328,19,15
+329,19,15
+330,19,15
+331,20,16
+332,20,16
+333,20,16
+334,20,16
+335,20,16
+336,20,16
+337,20,16
+338,21,16
+339,21,16
+340,21,16
+341,21,16
+342,21,16
+343,21,16
+344,21,16
+345,22,16
+346,22,16
+347,22,16
+348,22,16
+349,22,16
+350,22,16
+351,22,16
+352,22,16
+353,22,16
+354,22,16
+355,22,16
+356,22,16
+357,23,16
+358,23,16
+359,23,16
+360,23,16
+361,23,16
+362,23,16
+363,23,16
+364,23,16
+365,23,16
+366,24,16
+367,24,16
+368,24,16
+369,24,16
+370,24,16
+371,24,16
+372,24,16
+373,24,16
+374,24,16
+375,25,16
+376,25,16
+377,25,16
+378,25,16
+379,25,16
+380,25,16
+381,25,16
+382,25,16
+383,25,16
+384,25,16
+385,26,16
+386,26,16
+387,26,16
+388,26,16
+389,27,17
+390,27,17
+391,27,17
+392,27,17
+393,27,17
+394,27,17
+395,27,17
+396,27,17
+397,27,17
+398,27,17
+399,27,17
+400,27,17
+401,27,17
+402,27,17
+403,27,17
+404,27,17
+405,28,18
+406,28,18
+407,28,18
+408,28,18
+409,28,18
+410,28,18
+411,28,18
+412,28,18
+413,28,18
+414,28,18
+415,28,18
+416,28,18
+417,28,18
+418,28,18
+419,29,19
+420,29,19
+421,29,19
+422,29,19
+423,29,19
+424,29,19
+425,29,19
+426,29,19
+427,29,19
+428,29,19
+429,29,19
+430,29,19
+431,29,19
+432,29,19
+433,29,19
+434,29,19
+435,29,19
+436,29,19
+437,30,20
+438,30,20
+439,30,20
+440,30,20
+441,30,20
+442,30,20
+443,30,20
+444,30,20
+445,30,20
+446,30,20
+447,31,20
+448,31,20
+449,31,20
+450,31,20
+451,31,20
+452,31,20
+453,31,20
+454,31,20
+455,31,20
+456,31,20
+457,32,20
+458,32,20
+459,32,20
+460,32,20
+461,32,20
+462,32,20
+463,32,20
+464,32,20
+465,32,20
+466,32,20
+467,32,20
+468,32,20
+469,33,21
+470,33,21
+471,33,21
+472,33,21
+473,33,21
+474,33,21
+475,33,21
+476,33,21
+477,33,21
+478,34,22
+479,34,22
+480,34,22
+481,34,22
+482,34,22
+483,34,22
+484,34,22
+485,34,22
+486,34,22
+487,34,22
+488,34,22
+489,34,22
+490,34,22
+491,34,22
+492,35,22
+493,35,22
+494,35,22
+495,35,22
+496,35,22
+497,35,22
+498,35,22
+499,35,22
+500,35,22
+501,35,22
+502,35,22
+503,35,22
+504,35,22
+505,35,22
+506,35,22
+507,36,23
+508,36,23
+509,36,23
+510,36,23
+511,36,23
+512,36,23
+513,36,23
+514,36,23
+515,36,23
+516,36,23
+517,36,23
+518,36,23
+519,36,23
+520,37,23
+521,37,23
+522,37,23
+523,37,23
+524,37,23
+525,37,23
+526,37,23
+527,37,23
+528,37,23
+529,37,23
+530,37,23
+531,37,23
+532,37,23
+533,37,23
+534,37,23
+535,37,23
+536,37,23
+537,37,23
+538,37,23
+539,37,23
+540,37,23
+541,38,24
+542,38,24
+543,38,24
+544,38,24
+545,38,24
+546,38,24
+547,38,24
+548,38,24
+549,38,24
+550,38,24
+551,38,24
+552,38,24
+553,38,24
+554,38,24
+555,38,24
+556,38,24
+557,38,24
+558,38,24
+559,39,25
+560,39,25
+561,39,25
+562,39,25
+563,39,25
+564,39,25
+565,39,25
+566,39,25
+567,39,25
+568,39,25
+569,39,25
+570,39,25
+571,39,25
+572,40,26
+573,40,26
+574,40,26
+575,40,26
+576,40,26
+577,40,26
+578,40,26
+579,40,26
+580,40,26
+581,40,26
+582,40,26
+583,40,26
+584,40,26
+585,40,26
+586,40,26
+587,40,26
+588,40,26
+589,40,26
+590,41,26
+591,41,26
+592,41,26
+593,41,26
+594,41,26
+595,41,26
+596,41,26
+597,41,26
+598,41,26
+599,41,26
+600,42,26
+601,42,26
+602,42,26
+603,42,26
+604,42,26
+605,42,26
+606,42,26
+607,42,26
+608,42,26
+609,43,26
+610,43,26
+611,43,26
+612,43,26
+613,43,26
+614,43,26
+615,43,26
+616,43,26
+617,44,26
+618,44,26
+619,44,26
+620,44,26
+621,44,26
+622,44,26
+623,44,26
+624,44,26
+625,44,26
+626,44,26
+627,45,26
+628,45,26
+629,45,26
+630,45,26
+631,45,26
+632,45,26
+633,45,26
+634,45,26
+635,45,26
+636,46,26
+637,46,26
+638,46,26
+639,46,26
+640,46,26
+641,46,26
+642,46,26
+643,46,26
+644,47,26
+645,47,26
+646,47,26
+647,47,26
+648,47,26
+649,47,26
+650,47,26
+651,47,26
+652,47,26
+653,47,26
+654,47,26
+655,48,27
+656,48,27
+657,48,27
+658,48,27
+659,48,27
+660,48,27
+661,48,27
+662,48,27
+663,48,27
+664,48,27
+665,48,27
+666,48,27
+667,48,27
+668,49,28
+669,49,28
+670,49,28
+671,49,28
+672,49,28
+673,49,28
+674,49,28
+675,49,28
+676,50,28
+677,50,28
+678,50,28
+679,50,28
+680,50,28
+681,50,28
+682,50,28
+683,50,28
+684,50,28
+685,50,28
+686,50,28
+687,51,28
+688,51,28
+689,51,28
+690,51,28
+691,51,28
+692,51,28
+693,51,28
+694,51,28
+695,51,28
+696,51,28
+697,51,28
+698,52,29
+699,52,29
+700,52,29
+701,52,29
+702,52,29
+703,52,29
+704,52,29
+705,52,29
+706,52,29
+707,52,29
+708,52,29
+709,52,29
+710,52,29
+711,52,29
+712,52,29
+713,52,29
+714,52,29
+715,53,30
+716,53,30
+717,53,30
+718,53,30
+719,53,30
+720,53,30
+721,53,30
+722,53,30
+723,53,30
+724,53,30
+725,53,30
+726,53,30
+727,53,30
+728,53,30
+729,53,30
+730,53,30
+731,54,31
+732,54,31
+733,54,31
+734,54,31
+735,54,31
+736,54,31
+737,54,31
+738,54,31
+739,54,31
+740,54,31
+741,54,31
+742,54,31
+743,54,31
+744,54,31
+745,54,31
+746,54,31
+747,54,31
+748,54,31
+749,54,31
+750,54,31
+751,55,31
+752,55,31
+753,55,31
+754,55,31
+755,55,31
+756,55,31
+757,55,31
+758,55,31
+759,55,31
+760,55,31
+761,55,31
+762,55,31
+763,55,31
+764,55,31
+765,56,32
+766,56,32
+767,56,32
+768,56,32
+769,56,32
+770,56,32
+771,56,32
+772,56,32
+773,56,32
+774,56,32
+775,56,32
+776,56,32
+777,56,32
+778,56,32
+779,57,32
+780,57,32
+781,57,32
+782,57,32
+783,57,32
+784,57,32
+785,57,32
+786,57,32
+787,57,32
+788,57,32
+789,58,32
+790,58,32
+791,58,32
+792,58,32
+793,58,32
+794,58,32
+795,58,32
+796,58,32
+797,59,32
+798,59,32
+799,59,32
+800,59,32
+801,59,32
+802,59,32
+803,59,32
+804,60,32
+805,60,32
+806,60,32
+807,60,32
+808,60,32
+809,60,32
+810,60,32
+811,60,32
+812,60,32
+813,61,32
+814,61,32
+815,61,32
+816,61,32
+817,61,32
+818,61,32
+819,61,32
+820,61,32
+821,61,32
+822,62,32
+823,62,32
+824,62,32
+825,62,32
+826,62,32
+827,62,32
+828,62,32
+829,62,32
+830,62,32
+831,62,32
+832,63,32
+833,63,32
+834,63,32
+835,63,32
+836,63,32
+837,63,32
+838,64,32
+839,64,32
+840,64,32
+841,64,32
+842,64,32
+843,64,32
+844,64,32
+845,64,32
+846,64,32
+847,65,33
+848,65,33
+849,65,33
+850,65,33
+851,65,33
+852,65,33
+853,65,33
+854,65,33
+855,65,33
+856,65,33
+857,65,33
+858,65,33
+859,65,33
+860,65,33
+861,65,33
+862,65,33
+863,66,34
+864,66,34
+865,66,34
+866,66,34
+867,66,34
+868,66,34
+869,66,34
+870,66,34
+871,66,34
+872,66,34
+873,67,35
+874,67,35
+875,67,35
+876,67,35
+877,67,35
+878,67,35
+879,67,35
+880,67,35
+881,67,35
+882,67,35
+883,68,36
+884,68,36
+885,68,36
+886,68,36
+887,68,36
+888,68,36
+889,68,36
+890,68,36
+891,68,36
+892,68,36
+893,68,36
+894,69,36
+895,69,36
+896,69,36
+897,69,36
+898,69,36
+899,69,36
+900,69,36
+901,69,36
+902,69,36
+903,69,36
+904,69,36
+905,69,36
+906,69,36
+907,69,36
+908,69,36
+909,69,36
+910,70,36
+911,70,36
+912,70,36
+913,70,36
+914,70,36
+915,70,36
+916,70,36
+917,70,36
+918,70,36
+919,70,36
+920,71,36
+921,71,36
+922,71,36
+923,71,36
+924,71,36
+925,71,36
+926,71,36
+927,71,36
+928,72,36
+929,72,36
+930,72,36
+931,72,36
+932,72,36
+933,72,36
+934,72,36
+935,72,36
+936,73,37
+937,73,37
+938,73,37
+939,73,37
+940,73,37
+941,73,37
+942,73,37
+943,73,37
+944,73,37
+945,73,37
+946,73,37
+947,73,37
+948,73,37
+949,73,37
+950,74,38
+951,74,38
+952,74,38
+953,74,38
+954,74,38
+955,74,38
+956,74,38
+957,74,38
+958,74,38
+959,74,38
+960,74,38
+961,74,38
+962,74,38
+963,74,38
+964,74,38
+965,74,38
+966,75,39
+967,75,39
+968,75,39
+969,75,39
+970,75,39
+971,75,39
+972,75,39
+973,75,39
+974,75,39
+975,75,39
+976,75,39
+977,75,39
+978,75,39
+979,75,39
+980,75,39
+981,75,39
+982,75,39
+983,76,39
+984,76,39
+985,76,39
+986,76,39
+987,76,39
+988,76,39
+989,76,39
+990,76,39
+991,76,39
+992,76,39
+993,76,39
+994,76,39
+995,77,40
+996,77,40
+997,77,40
+998,77,40
+999,77,40
+1000,77,40
+1001,77,40
+1002,77,40
+1003,77,40
+1004,77,40
+1005,77,40
+1006,77,40
+1007,77,40
+1008,78,41
+1009,78,41
+1010,78,41
+1011,78,41
+1012,78,41
+1013,78,41
+1014,78,41
+1015,78,41
+1016,78,41
+1017,78,41
+1018,78,41
+1019,78,41
+1020,78,41
+1021,79,42
+1022,79,42
+1023,79,42
+1024,79,42
+1025,79,42
+1026,79,42
+1027,79,42
+1028,79,42
+1029,79,42
+1030,79,42
+1031,79,42
+1032,79,42
+1033,79,42
+1034,79,42
+1035,79,42
+1036,79,42
+1037,80,43
+1038,81,43
+1039,81,43
+1040,82,44
+1041,82,44
+1042,82,44
+1043,82,44
+1044,82,44
+1045,82,44
+1046,82,44
+1047,82,44
+1048,82,44
+1049,82,44
+1050,82,44
+1051,82,44
+1052,83,45
+1053,83,45
+1054,83,45
+1055,83,45
+1056,83,45
+1057,83,45
+1058,83,45
+1059,83,45
+1060,83,45
+1061,83,45
+1062,83,45
+1063,83,45
+1064,83,45
+1065,83,45
+1066,83,45
+1067,84,46
+1068,85,47
+1069,85,47
+1070,85,47
+1071,85,47
+1072,85,47
+1073,85,47
+1074,85,47
+1075,85,47
+1076,85,47
+1077,85,47
+1078,85,47
+1079,85,47
+1080,85,47
+1081,85,47
+1082,85,47
+1083,85,47
+1084,86,48
+1085,86,48
+1086,86,48
+1087,86,48
+1088,86,48
+1089,86,48
+1090,86,48
+1091,86,48
+1092,86,48
+1093,86,48
+1094,86,48
+1095,86,48
+1096,86,48
+1097,86,48
+1098,86,48
+1099,86,48
+1100,86,48
+1101,87,48
+1102,87,48
+1103,87,48
+1104,87,48
+1105,87,48
+1106,87,48
+1107,87,48
+1108,87,48
+1109,87,48
+1110,87,48
+1111,87,48
+1112,87,48
+1113,87,48
+1114,87,48
+1115,87,48
+1116,87,48
+1117,88,49
+1118,88,49
+1119,88,49
+1120,88,49
+1121,88,49
+1122,88,49
+1123,88,49
+1124,88,49
+1125,88,49
+1126,88,49
+1127,88,49
+1128,88,49
+1129,88,49
+1130,88,49
+1131,89,50
+1132,89,50
+1133,89,50
+1134,89,50
+1135,89,50
+1136,89,50
+1137,89,50
+1138,89,50
+1139,90,50
+1140,90,50
+1141,90,50
+1142,90,50
+1143,90,50
+1144,90,50
+1145,91,51
+1146,91,51
+1147,91,51
+1148,91,51
+1149,91,51
+1150,91,51
+1151,91,51
+1152,91,51
+1153,91,51
+1154,91,51
+1155,91,51
+1156,91,51
+1157,91,51
+1158,91,51
+1159,91,51
+1160,91,51
+1161,91,51
+1162,92,52
+1163,92,52
+1164,92,52
+1165,92,52
+1166,92,52
+1167,92,52
+1168,92,52
+1169,92,52
+1170,92,52
+1171,92,52
+1172,92,52
+1173,92,52
+1174,93,52
+1175,93,52
+1176,93,52
+1177,93,52
+1178,93,52
+1179,93,52
+1180,93,52
+1181,93,52
+1182,93,52
+1183,94,53
+1184,94,53
+1185,94,53
+1186,94,53
+1187,94,53
+1188,94,53
+1189,94,53
+1190,94,53
+1191,94,53
+1192,94,53
+1193,95,54
+1194,96,55
+1195,96,55
+1196,96,55
+1197,96,55
+1198,96,55
+1199,96,55
+1200,96,55
+1201,96,55
+1202,96,55
+1203,96,55
+1204,97,55
+1205,97,55
+1206,97,55
+1207,97,55
+1208,97,55
+1209,97,55
+1210,97,55
+1211,97,55
+1212,97,55
+1213,98,56
+1214,98,56
+1215,98,56
+1216,98,56
+1217,98,56
+1218,98,56
+1219,98,56
+1220,98,56
+1221,98,56
+1222,98,56
+1223,98,56
+1224,99,57
+1225,99,57
+1226,99,57
+1227,99,57
+1228,99,57
+1229,99,57
+1230,99,57
+1231,99,57
+1232,99,57
+1233,99,57
+1234,99,57
+1235,99,57
+1236,99,57
+1237,99,57
+1238,100,58
+1239,100,58
+1240,100,58
+1241,100,58
+1242,100,58
+1243,100,58
+1244,100,58
+1245,100,58
+1246,100,58
+1247,100,58
+1248,100,58
+1249,100,58
+1250,101,58
+1251,101,58
+1252,101,58
+1253,101,58
+1254,101,58
+1255,101,58
+1256,101,58
+1257,101,58
+1258,101,58
+1259,101,58
+1260,101,58
+1261,102,58
+1262,102,58
+1263,102,58
+1264,102,58
+1265,102,58
+1266,102,58
+1267,102,58
+1268,102,58
+1269,102,58
+1270,102,58
+1271,102,58
+1272,103,58
+1273,103,58
+1274,103,58
+1275,103,58
+1276,103,58
+1277,103,58
+1278,103,58
+1279,103,58
+1280,103,58
+1281,104,59
+1282,104,59
+1283,104,59
+1284,104,59
+1285,104,59
+1286,104,59
+1287,104,59
+1288,104,59
+1289,104,59
+1290,104,59
+1291,104,59
+1292,104,59
+1293,104,59
+1294,104,59
+1295,105,60
+1296,105,60
+1297,105,60
+1298,105,60
+1299,105,60
+1300,105,60
+1301,105,60
+1302,105,60
+1303,105,60
+1304,105,60
+1305,105,60
+1306,106,60
+1307,106,60
+1308,106,60
+1309,106,60
+1310,106,60
+1311,106,60
+1312,106,60
+1313,106,60
+1314,106,60
+1315,106,60
+1316,106,60
+1317,106,60

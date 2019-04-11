@@ -1,0 +1,76 @@
+SELECT FullName, SUM(Length)
+FROM Checks_Out as O, Library_Card as L, Customer as C, Media_Production as M
+WHERE C.CustID = L.CustID AND
+	O.CardNo = L.CardNo AND
+	O.ProductionID = M.ProductionID AND
+	Type = “MOVIE”
+GROUP BY C.CustID
+
+DROP TABLE IF EXISTS AlbumCheckoutCounts;
+
+CREATE TEMPORARY TABLE AlbumCheckoutCounts AS
+SELECT CO.CheckoutID, C.CustID, C.FullName, C.Address, COUNT(M.ProductionID) as AlbumCount
+FROM Customer as C, Library_Card as L, Checks_Out as CO, Media_Production as M
+WHERE C.CustID = L.CustID AND CO.CardNo = L.CardNo AND CO.ProductionID = M.ProductionID AND M.Type = 'ALBUM'
+GROUP BY C.CustID;
+
+SELECT FullName, Address, AlbumCount
+FROM AlbumCheckoutCounts
+WHERE AlbumCount > (SELECT AVG(AlbumCount)
+FROM AlbumCheckoutCounts);
+
+SELECT MEDIA_PRODUCTION.Name, Count(CHECKS_OUT.CheckoutID) as total_copies_lent
+FROM MEDIA_PRODUCTION, CHECKS_OUT
+Where MEDIA_PRODUCTION.ProductionID = CHECKS_OUT.ProductionID AND MEDIA_PRODUCTION.ProductionID in(
+	SELECT MEDIA_PRODUCTION.ProductionID
+    FROM MOVIE, MEDIA_PRODUCTION
+    WHERE MovieID = MEDIA_PRODUCTION.ProductionID)
+Group By MEDIA_PRODUCTION.Name
+Order by total_copies_lent DESC;
+
+SELECT M.Name, COUNT(M.ProductionID) as Count
+FROM Media_Production as M, Checks_Out as C, 
+WHERE M.ProductionID = C.ProductionID AND
+	C.ProductionID = M.ProductionID AND
+	M.Type = “ALBUM” 
+ORDER BY (count)
+
+SELECT Name 
+FROM ACTOR AS A, MOVIE AS M, MEDIA_PRODUCTION AS P, CHECKS_OUT AS O
+WHERE 
+    A.ActorID = M.ActorID AND
+    M.MovieID = P.ProductionID AND
+    P.ProductionID = O.ProductionID AND
+    P.Type = “Movie” AND
+    O.Returned = “N” AND
+COUNT(O.ProductionID) = MAX(COUNT(O.ProductionID));
+
+
+SELECT MEK.Name, MAX( MEK.Total_Secs_Listened) as Sum_of_Secs
+FROM (SELECT ARTIST.Name, Sum(MEE.Length_Secs) as Total_Secs_Listened
+            FROM
+                      (SELECT MED.ArtistID, CHECKS_OUT.ProductionID, MED.Name, MED.Length_Secs
+                       FROM (SELECT ALBUM.AlbumID, ALBUM.ArtistID,MEDIA_PRODUCTION.Name,                                MEDIA_PRODUCTION.Length_Secs
+                                     FROM (ALBUM Inner Join MEDIA_PRODUCTION on ALBUM.AlbumID = MEDIA_PRODUCTION.ProductionID)) as MED, CHECKS_OUT
+                      WHERE CHECKS_OUT.ProductionID = MED.AlbumID) as MEE, ARTIST)
+WHERE ARTIST.ArtistID = MEE.ArtistID
+GROUP BY ARTIST.Name) as MEK;
+
+SELECT FullName, Address, Phone, Birthdate
+FROM CUSTOMER JOIN LIBRARY_CARD ON CUSTOMER.CustID = LIBRARY_CARD.CustID
+WHERE CardNo IN 
+        (SELECT Name, CHECKS_OUT.CardNo FROM ACTOR AS A, MOVIE AS M, MEDIA_PRODUCTION AS 
+        P, CHECKS_OUT AS O WHERE A.ActorID = M.ActorID AND M.MovieID = P.ProductionID AND 
+        P.ProductionID = O.ProductionID AND P.Type = “Movie” AND O.Returned = “N” AND 
+        COUNT(O.ProductionID) = MAX(COUNT(O.ProductionID)));
+
+DROP TABLE IF EXISTS AlbumCheckoutCounts;
+CREATE TEMPORARY TABLE AlbumCheckoutCounts AS
+SELECT CO.CheckoutID, C.CustID, C.FullName, C.Address, A.Name, COUNT(M.ProductionID) as CustAlbumCount
+FROM Customer as C, Library_Card as L, Checks_Out as CO, Media_Production as M, Artist as A, Album as AL
+WHERE C.CustID = L.CustID AND CO.CardNo = L.CardNo AND CO.ProductionID = M.ProductionID AND M.Type = 'ALBUM' AND M.ProductionID = AL.AlbumID AND AL.ArtistID = A.ArtistID
+GROUP BY C.CustID;
+SELECT Name
+FROM AlbumCheckoutCounts
+WHERE CustAlbumCount > (SELECT AVG(CustAlbumCount)
+FROM AlbumCheckoutCounts);

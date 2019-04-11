@@ -1,10 +1,10 @@
-SELECT FullName, SUM(Length)
+﻿SELECT FullName, SUM(Length_Secs)
 FROM Checks_Out as O, Library_Card as L, Customer as C, Media_Production as M
 WHERE C.CustID = L.CustID AND
 	O.CardNo = L.CardNo AND
 	O.ProductionID = M.ProductionID AND
-	Type = “MOVIE”
-GROUP BY C.CustID
+	Type = 'MOVIE'
+ GROUP BY C.CustID;
 
 DROP TABLE IF EXISTS AlbumCheckoutCounts;
 

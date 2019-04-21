@@ -1,0 +1,134 @@
+--Adding New Artist ‘Nonpoint’:
+BEGIN TRANSACTION; 
+
+INSERT INTO EDITABLE(EditableID)
+VALUES(
+(SELECT MAX(EditableID) FROM EDITABLE) + 1
+  );
+
+INSERT INTO ARTIST
+VALUES(
+(SELECT MAX(ArtistID) FROM ARTIST) + 1,
+'Nonpoint', -- Artist Name
+(SELECT MAX(EditableID) FROM EDITABLE)
+  );
+
+COMMIT TRANSACTION;
+
+
+--Adding New Album ‘The Poison Red’ as a CD copy
+-- Artist must be inserted before inserting any albums.
+BEGIN TRANSACTION;
+INSERT INTO EDITABLE(EditableID)
+VALUES(
+(SELECT MAX(EditableID) FROM EDITABLE) + 1
+);
+
+INSERT INTO MEDIA_PRODUCTION
+VALUES(
+(SELECT MAX(ProductionID) FROM MEDIA_PRODUCTION) + 1,
+'The Poison Red', -- Album name
+'Alternative Metal', -- Genre
+2865, -- Length in seconds
+2016, -- Year
+'ALBUM', -- Type
+(SELECT MAX(EditableID) FROM EDITABLE)
+);
+
+INSERT INTO ALBUM
+VALUES(
+(SELECT MAX(ProductionID) FROM MEDIA_PRODUCTION),
+(SELECT ArtistID FROM ARTIST WHERE Name='Nonpoint'),
+'Spinefarm' -- Label
+);
+
+INSERT INTO PHYSICAL_COPY
+VALUES(
+(SELECT MAX(InventoryTag) FROM PHYSICAL_COPY) + 1,
+'CD', -- Format
+(SELECT MAX(ProductionID) FROM MEDIA_PRODUCTION)
+);
+COMMIT TRANSACTION;
+
+
+--Adding New Track ‘No Running Allowed’
+-- Album must be inserted before inserting any tracks
+BEGIN TRANSACTION;
+
+INSERT INTO EDITABLE(EditableID)
+VALUES(
+(SELECT MAX(EditableID) FROM EDITABLE) + 1
+);
+
+
+INSERT INTO MEDIA_PRODUCTION
+VALUES(
+(SELECT MAX(ProductionID) FROM MEDIA_PRODUCTION) + 1,
+'No Running Allowed',
+'Alternative Metal',
+194,
+2016,
+'TRACK',
+(SELECT MAX(EditableID) FROM EDITABLE)
+);
+
+INSERT INTO TRACK
+VALUES(
+(SELECT MAX(ProductionID) FROM MEDIA_PRODUCTION),
+(SELECT ProductionID FROM MEDIA_PRODUCTION WHERE Name='The Poison Red'),
+(SELECT ArtistID FROM ARTIST WHERE Name='Nonpoint'),
+11
+);
+
+COMMIT TRANSACTION;
+
+
+--Adding New Movie as a Digital Copy
+
+BEGIN TRANSACTION;
+
+INSERT INTO EDITABLE(EditableID)
+VALUES(
+(SELECT MAX(EditableID) FROM EDITABLE) + 1
+);
+
+INSERT INTO MEDIA_PRODUCTION
+VALUES(
+(SELECT MAX(ProductionID) FROM MEDIA_PRODUCTION) + 1,
+'Kids in a Sandbox', -- Title
+'Romance', -- Genre
+5786, -- Length in seconds
+2013, -- Year
+'MOVIE', -- Type
+(SELECT MAX(EditableID) FROM EDITABLE)
+);
+
+INSERT INTO MOVIE
+VALUES(
+(SELECT MAX(ProductionID) FROM MEDIA_PRODUCTION),
+'U', -- Content rating
+(SELECT ActorID FROM ACTOR WHERE Name='Lolly Drib'),
+(SELECT DirectorID FROM DIRECTOR WHERE Name='Jordan Peepee')
+);
+
+INSERT INTO DIGITAL_COPY
+VALUES(
+(SELECT MAX(LicenseNo) FROM DIGITAL_COPY) + 1,
+823456842, -- Size in Bytes
+(SELECT MAX(ProductionID) FROM MEDIA_PRODUCTION)
+);
+
+COMMIT TRANSACTION;
+
+
+--Adding New Customer
+
+INSERT INTO CUSTOMER
+VALUES (
+(SELECT MAX(CustID) FROM CUSTOMER) + 1,
+'Prim Johnton',
+'221 Prick Blvd.',
+8889975,
+'1990-05-09',
+'F'
+);

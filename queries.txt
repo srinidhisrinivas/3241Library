@@ -1,0 +1,61 @@
+SELECT Name 
+FROM TRACK AS T, ARTIST AS A 
+WHERE A.Name = InputArtist AND T.Year < InputYear;
+
+
+--Description: Give all the movies and their date of their checkout from a single patron (you choose how to designate the patron)
+
+SELECT Name , CDate, FullName
+FROM (Checks_Out Join (Physical_Copy AS P JOIN (Media_Production JOIN Movie On ProductionID = MovieID) ON ProductionID = ProductionID) ON ProductionID = ProductionID) ON CheckoutablID = CheckoutableID)
+WHERE CardNo = 234345
+
+
+--Description: List all the albums and their unique identifiers with less than 2 copies held by the library. 
+
+SELECT AlbumID, Name 
+FROM ALBUM, CHECKOUTABLE AS C 
+WHERE (COUNT(DISTINCT C.InventoryTag) + COUNT(DISTINCT C.SerialNumber)) < 2;
+
+
+--Description: Give all the patrons who checked out a movie by ACTOR and the movies they checked out
+
+SELECT Cust.FullName, M.Name
+FROM (Checks_out AS C JOIN (Customer AS Cust JOIN Library_Card AS L ON  Cust.CustID = L.CustID) AS Cust ON Checkout.CardNo = Cust.CardNo) AS Checkout
+WHERE Checkout.production_id IN (SELECT M.ProductionID  FROM (Media_Production JOIN Movie ON ProductionID=MovieID) AS M JOIN Actor AS A ON M.ActorID=A.ActorID WHERE A.Name = ACTOR)
+
+
+--Description: Find the total number of albums checked out by a single patron (you choose how to designate the patron)
+
+SELECT COUNT(DISTINCT Title) 
+FROM ALBUM 
+WHERE CheckoutableID IN (SELECT CheckoutableID, Returned, CardNo FROM   CHECKS_OUT WHERE Returned = “N” AND CardNo = InputCardNo);
+
+
+--Description: Find the patron who has checked out the most videos and the total number of videos they have checked out. 
+ 
+SELECT FullName, COUNT(CheckoutID)
+FROM (Checks_out AS C JOIN (Customer AS Cust JOIN Library_Card AS L ON  Cust.CustID = L.CustID) AS Cust ON C.CardNo = Cust.CardNo) AS Checked_Out, Media_Production as MP
+WHERE Checked_Out.ProductionID = MP.ProductionID AND MP.Type = ‘VIDEO’
+GROUP BY CustID DESC
+LIMIT 1;
+
+
+--Description: Find all the movie titles with a given DIRECTOR released before DATE
+
+SELECT Name 
+FROM MOVIE
+WHERE Year < DATE AND DirectorID IN (SELECT DirectorID, Name FROM DIRECTOR);
+
+
+--Description: Find the average production year of all ALBUM for each ARTIST
+
+SELECT Name, avg(Year) 
+FROM ALBUM AS A, ARTIST AS T 
+WHERE A.ArtistID = T.ArtistID 
+GROUP BY T.Name;
+
+--Description: Find all VIDEOS with a content rating of PG-13
+
+SELECT * 
+FROM MOVIE 
+WHERE ContentRating = “PG-13”;

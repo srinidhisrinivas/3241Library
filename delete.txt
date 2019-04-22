@@ -1,4 +1,4 @@
---Deleting a Track:
+﻿--Deleting a Track:
 BEGIN TRANSACTION;
 
 CREATE TEMP TABLE VALUE_STORE(
@@ -197,7 +197,28 @@ DELETE FROM EDITABLE WHERE EditableID IN
 
 
 --Deleting a Library Card
-Library cards may should not be deleted from the database as they can be marked inactive if needed, and are tied to checkout history
+--All checkouts with this Library card number in table CHECKS_OUT should be
+-- deleted before Library Card is deleted.
+BEGIN TRANSACTION;
+
+CREATE TEMP TABLE VALUE_STORE(
+EditableID INT NOT NULL,
+CardNo INT NOT NULL);
+
+INSERT INTO VALUE_STORE(EditableID, CardNo)
+SELECT EditableID, CardNo 
+FROM LIBRARY_CARD 
+WHERE CardNo=5
+
+DELETE FROM LIBRARY_CARD WHERE CardNo IN 
+(SELECT CardNo FROM VALUE_STORE);
+
+DELETE FROM Editable WHERE EditableID IN 
+(SELECT EditableID FROM VALUE_STORE);
+
+DROP TABLE VALUE_STORE;
+
+COMMIT TRANSACTION;
 
 
 --Deleting a Media Production
